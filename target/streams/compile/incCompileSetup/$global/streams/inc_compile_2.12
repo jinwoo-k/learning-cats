@@ -1,0 +1,638 @@
+format version: 5
+output mode:
+1 items
+0 -> single
+output directories:
+1 items
+output dir -> /Users/jason.kim/Study/scala/cats/target/scala-2.12/classes
+compile options:
+10 items
+0 -> -encoding
+1 -> UTF-8
+2 -> -deprecation
+3 -> -unchecked
+4 -> -feature
+5 -> -language:higherKinds
+6 -> -Xlint
+7 -> -Xfatal-warnings
+8 -> -Ypartial-unification
+9 -> -Xplugin:/Users/jason.kim/.ivy2/cache/org.spire-math/kind-projector_2.12/jars/kind-projector_2.12-0.9.3.jar
+javac options:
+0 items
+compiler version:
+1 items
+0 -> 2.12.3
+compile order:
+1 items
+0 -> Mixed
+name hashing:
+1 items
+0 -> true
+products:
+54 items
+/Users/jason.kim/Study/scala/cats/src/main/scala/sandbox/CovariantAndContravariant.scala -> /Users/jason.kim/Study/scala/cats/target/scala-2.12/classes/sandbox/CovariantAndContravariant$$anon$1.class
+/Users/jason.kim/Study/scala/cats/src/main/scala/sandbox/CovariantAndContravariant.scala -> /Users/jason.kim/Study/scala/cats/target/scala-2.12/classes/sandbox/CovariantAndContravariant$.class
+/Users/jason.kim/Study/scala/cats/src/main/scala/sandbox/CovariantAndContravariant.scala -> /Users/jason.kim/Study/scala/cats/target/scala-2.12/classes/sandbox/CovariantAndContravariant$Circle$.class
+/Users/jason.kim/Study/scala/cats/src/main/scala/sandbox/CovariantAndContravariant.scala -> /Users/jason.kim/Study/scala/cats/target/scala-2.12/classes/sandbox/CovariantAndContravariant$Circle.class
+/Users/jason.kim/Study/scala/cats/src/main/scala/sandbox/CovariantAndContravariant.scala -> /Users/jason.kim/Study/scala/cats/target/scala-2.12/classes/sandbox/CovariantAndContravariant$JsonWriter$1.class
+/Users/jason.kim/Study/scala/cats/src/main/scala/sandbox/CovariantAndContravariant.scala -> /Users/jason.kim/Study/scala/cats/target/scala-2.12/classes/sandbox/CovariantAndContravariant$Shape.class
+/Users/jason.kim/Study/scala/cats/src/main/scala/sandbox/CovariantAndContravariant.scala -> /Users/jason.kim/Study/scala/cats/target/scala-2.12/classes/sandbox/CovariantAndContravariant.class
+/Users/jason.kim/Study/scala/cats/src/main/scala/sandbox/Equality.scala -> /Users/jason.kim/Study/scala/cats/target/scala-2.12/classes/sandbox/Equality$.class
+/Users/jason.kim/Study/scala/cats/src/main/scala/sandbox/Equality.scala -> /Users/jason.kim/Study/scala/cats/target/scala-2.12/classes/sandbox/Equality$Cat$.class
+/Users/jason.kim/Study/scala/cats/src/main/scala/sandbox/Equality.scala -> /Users/jason.kim/Study/scala/cats/target/scala-2.12/classes/sandbox/Equality$Cat.class
+/Users/jason.kim/Study/scala/cats/src/main/scala/sandbox/Equality.scala -> /Users/jason.kim/Study/scala/cats/target/scala-2.12/classes/sandbox/Equality.class
+/Users/jason.kim/Study/scala/cats/src/main/scala/sandbox/FunctorTest.scala -> /Users/jason.kim/Study/scala/cats/target/scala-2.12/classes/sandbox/FunctorTest.class
+/Users/jason.kim/Study/scala/cats/src/main/scala/sandbox/Main.scala -> /Users/jason.kim/Study/scala/cats/target/scala-2.12/classes/sandbox/Main$.class
+/Users/jason.kim/Study/scala/cats/src/main/scala/sandbox/Main.scala -> /Users/jason.kim/Study/scala/cats/target/scala-2.12/classes/sandbox/Main$delayedInit$body.class
+/Users/jason.kim/Study/scala/cats/src/main/scala/sandbox/Main.scala -> /Users/jason.kim/Study/scala/cats/target/scala-2.12/classes/sandbox/Main.class
+/Users/jason.kim/Study/scala/cats/src/main/scala/sandbox/MonoidTest.scala -> /Users/jason.kim/Study/scala/cats/target/scala-2.12/classes/sandbox/Monoid$.class
+/Users/jason.kim/Study/scala/cats/src/main/scala/sandbox/MonoidTest.scala -> /Users/jason.kim/Study/scala/cats/target/scala-2.12/classes/sandbox/Monoid.class
+/Users/jason.kim/Study/scala/cats/src/main/scala/sandbox/MonoidTest.scala -> /Users/jason.kim/Study/scala/cats/target/scala-2.12/classes/sandbox/MonoidTest$$anon$1.class
+/Users/jason.kim/Study/scala/cats/src/main/scala/sandbox/MonoidTest.scala -> /Users/jason.kim/Study/scala/cats/target/scala-2.12/classes/sandbox/MonoidTest$$anon$2.class
+/Users/jason.kim/Study/scala/cats/src/main/scala/sandbox/MonoidTest.scala -> /Users/jason.kim/Study/scala/cats/target/scala-2.12/classes/sandbox/MonoidTest$.class
+/Users/jason.kim/Study/scala/cats/src/main/scala/sandbox/MonoidTest.scala -> /Users/jason.kim/Study/scala/cats/target/scala-2.12/classes/sandbox/MonoidTest.class
+/Users/jason.kim/Study/scala/cats/src/main/scala/sandbox/MonoidTest.scala -> /Users/jason.kim/Study/scala/cats/target/scala-2.12/classes/sandbox/Semigroup$.class
+/Users/jason.kim/Study/scala/cats/src/main/scala/sandbox/MonoidTest.scala -> /Users/jason.kim/Study/scala/cats/target/scala-2.12/classes/sandbox/Semigroup.class
+/Users/jason.kim/Study/scala/cats/src/main/scala/sandbox/TypeClass.scala -> /Users/jason.kim/Study/scala/cats/target/scala-2.12/classes/sandbox/JsNull$.class
+/Users/jason.kim/Study/scala/cats/src/main/scala/sandbox/TypeClass.scala -> /Users/jason.kim/Study/scala/cats/target/scala-2.12/classes/sandbox/JsNull.class
+/Users/jason.kim/Study/scala/cats/src/main/scala/sandbox/TypeClass.scala -> /Users/jason.kim/Study/scala/cats/target/scala-2.12/classes/sandbox/JsNumber$.class
+/Users/jason.kim/Study/scala/cats/src/main/scala/sandbox/TypeClass.scala -> /Users/jason.kim/Study/scala/cats/target/scala-2.12/classes/sandbox/JsNumber.class
+/Users/jason.kim/Study/scala/cats/src/main/scala/sandbox/TypeClass.scala -> /Users/jason.kim/Study/scala/cats/target/scala-2.12/classes/sandbox/JsObject$.class
+/Users/jason.kim/Study/scala/cats/src/main/scala/sandbox/TypeClass.scala -> /Users/jason.kim/Study/scala/cats/target/scala-2.12/classes/sandbox/JsObject.class
+/Users/jason.kim/Study/scala/cats/src/main/scala/sandbox/TypeClass.scala -> /Users/jason.kim/Study/scala/cats/target/scala-2.12/classes/sandbox/JsString$.class
+/Users/jason.kim/Study/scala/cats/src/main/scala/sandbox/TypeClass.scala -> /Users/jason.kim/Study/scala/cats/target/scala-2.12/classes/sandbox/JsString.class
+/Users/jason.kim/Study/scala/cats/src/main/scala/sandbox/TypeClass.scala -> /Users/jason.kim/Study/scala/cats/target/scala-2.12/classes/sandbox/Json$.class
+/Users/jason.kim/Study/scala/cats/src/main/scala/sandbox/TypeClass.scala -> /Users/jason.kim/Study/scala/cats/target/scala-2.12/classes/sandbox/Json.class
+/Users/jason.kim/Study/scala/cats/src/main/scala/sandbox/TypeClass.scala -> /Users/jason.kim/Study/scala/cats/target/scala-2.12/classes/sandbox/JsonSyntax$.class
+/Users/jason.kim/Study/scala/cats/src/main/scala/sandbox/TypeClass.scala -> /Users/jason.kim/Study/scala/cats/target/scala-2.12/classes/sandbox/JsonSyntax$JsonWriterOps.class
+/Users/jason.kim/Study/scala/cats/src/main/scala/sandbox/TypeClass.scala -> /Users/jason.kim/Study/scala/cats/target/scala-2.12/classes/sandbox/JsonSyntax.class
+/Users/jason.kim/Study/scala/cats/src/main/scala/sandbox/TypeClass.scala -> /Users/jason.kim/Study/scala/cats/target/scala-2.12/classes/sandbox/JsonWriter.class
+/Users/jason.kim/Study/scala/cats/src/main/scala/sandbox/TypeClass.scala -> /Users/jason.kim/Study/scala/cats/target/scala-2.12/classes/sandbox/JsonWriterInstances$$anon$1.class
+/Users/jason.kim/Study/scala/cats/src/main/scala/sandbox/TypeClass.scala -> /Users/jason.kim/Study/scala/cats/target/scala-2.12/classes/sandbox/JsonWriterInstances$$anon$2.class
+/Users/jason.kim/Study/scala/cats/src/main/scala/sandbox/TypeClass.scala -> /Users/jason.kim/Study/scala/cats/target/scala-2.12/classes/sandbox/JsonWriterInstances$$anon$3.class
+/Users/jason.kim/Study/scala/cats/src/main/scala/sandbox/TypeClass.scala -> /Users/jason.kim/Study/scala/cats/target/scala-2.12/classes/sandbox/JsonWriterInstances$.class
+/Users/jason.kim/Study/scala/cats/src/main/scala/sandbox/TypeClass.scala -> /Users/jason.kim/Study/scala/cats/target/scala-2.12/classes/sandbox/JsonWriterInstances.class
+/Users/jason.kim/Study/scala/cats/src/main/scala/sandbox/TypeClass.scala -> /Users/jason.kim/Study/scala/cats/target/scala-2.12/classes/sandbox/Person$.class
+/Users/jason.kim/Study/scala/cats/src/main/scala/sandbox/TypeClass.scala -> /Users/jason.kim/Study/scala/cats/target/scala-2.12/classes/sandbox/Person.class
+/Users/jason.kim/Study/scala/cats/src/main/scala/sandbox/TypeClass.scala -> /Users/jason.kim/Study/scala/cats/target/scala-2.12/classes/sandbox/TypeClass$.class
+/Users/jason.kim/Study/scala/cats/src/main/scala/sandbox/TypeClass.scala -> /Users/jason.kim/Study/scala/cats/target/scala-2.12/classes/sandbox/TypeClass$Cat$.class
+/Users/jason.kim/Study/scala/cats/src/main/scala/sandbox/TypeClass.scala -> /Users/jason.kim/Study/scala/cats/target/scala-2.12/classes/sandbox/TypeClass$Cat.class
+/Users/jason.kim/Study/scala/cats/src/main/scala/sandbox/TypeClass.scala -> /Users/jason.kim/Study/scala/cats/target/scala-2.12/classes/sandbox/TypeClass$Printable$2.class
+/Users/jason.kim/Study/scala/cats/src/main/scala/sandbox/TypeClass.scala -> /Users/jason.kim/Study/scala/cats/target/scala-2.12/classes/sandbox/TypeClass$Printable$3$.class
+/Users/jason.kim/Study/scala/cats/src/main/scala/sandbox/TypeClass.scala -> /Users/jason.kim/Study/scala/cats/target/scala-2.12/classes/sandbox/TypeClass$PrintableInstances$2$$anon$4.class
+/Users/jason.kim/Study/scala/cats/src/main/scala/sandbox/TypeClass.scala -> /Users/jason.kim/Study/scala/cats/target/scala-2.12/classes/sandbox/TypeClass$PrintableInstances$2$$anon$5.class
+/Users/jason.kim/Study/scala/cats/src/main/scala/sandbox/TypeClass.scala -> /Users/jason.kim/Study/scala/cats/target/scala-2.12/classes/sandbox/TypeClass$PrintableInstances$2$$anon$6.class
+/Users/jason.kim/Study/scala/cats/src/main/scala/sandbox/TypeClass.scala -> /Users/jason.kim/Study/scala/cats/target/scala-2.12/classes/sandbox/TypeClass$PrintableInstances$2$.class
+/Users/jason.kim/Study/scala/cats/src/main/scala/sandbox/TypeClass.scala -> /Users/jason.kim/Study/scala/cats/target/scala-2.12/classes/sandbox/TypeClass.class
+binary dependencies:
+18 items
+/Users/jason.kim/Study/scala/cats/src/main/scala/sandbox/CovariantAndContravariant.scala -> /Library/Java/JavaVirtualMachines/jbsdk8u112b403/Contents/Home/jre/lib/rt.jar
+/Users/jason.kim/Study/scala/cats/src/main/scala/sandbox/CovariantAndContravariant.scala -> /Users/jason.kim/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.12.3.jar
+/Users/jason.kim/Study/scala/cats/src/main/scala/sandbox/Equality.scala -> /Library/Java/JavaVirtualMachines/jbsdk8u112b403/Contents/Home/jre/lib/rt.jar
+/Users/jason.kim/Study/scala/cats/src/main/scala/sandbox/Equality.scala -> /Users/jason.kim/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.12.3.jar
+/Users/jason.kim/Study/scala/cats/src/main/scala/sandbox/Equality.scala -> /Users/jason.kim/.ivy2/cache/org.typelevel/cats-core_2.12/jars/cats-core_2.12-1.0.0-MF.jar
+/Users/jason.kim/Study/scala/cats/src/main/scala/sandbox/Equality.scala -> /Users/jason.kim/.ivy2/cache/org.typelevel/cats-kernel_2.12/jars/cats-kernel_2.12-1.0.0-MF.jar
+/Users/jason.kim/Study/scala/cats/src/main/scala/sandbox/FunctorTest.scala -> /Library/Java/JavaVirtualMachines/jbsdk8u112b403/Contents/Home/jre/lib/rt.jar
+/Users/jason.kim/Study/scala/cats/src/main/scala/sandbox/FunctorTest.scala -> /Users/jason.kim/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.12.3.jar
+/Users/jason.kim/Study/scala/cats/src/main/scala/sandbox/FunctorTest.scala -> /Users/jason.kim/.ivy2/cache/org.typelevel/cats-core_2.12/jars/cats-core_2.12-1.0.0-MF.jar
+/Users/jason.kim/Study/scala/cats/src/main/scala/sandbox/Main.scala -> /Library/Java/JavaVirtualMachines/jbsdk8u112b403/Contents/Home/jre/lib/rt.jar
+/Users/jason.kim/Study/scala/cats/src/main/scala/sandbox/Main.scala -> /Users/jason.kim/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.12.3.jar
+/Users/jason.kim/Study/scala/cats/src/main/scala/sandbox/Main.scala -> /Users/jason.kim/.ivy2/cache/org.typelevel/cats-core_2.12/jars/cats-core_2.12-1.0.0-MF.jar
+/Users/jason.kim/Study/scala/cats/src/main/scala/sandbox/Main.scala -> /Users/jason.kim/.ivy2/cache/org.typelevel/cats-kernel_2.12/jars/cats-kernel_2.12-1.0.0-MF.jar
+/Users/jason.kim/Study/scala/cats/src/main/scala/sandbox/MonoidTest.scala -> /Library/Java/JavaVirtualMachines/jbsdk8u112b403/Contents/Home/jre/lib/rt.jar
+/Users/jason.kim/Study/scala/cats/src/main/scala/sandbox/MonoidTest.scala -> /Users/jason.kim/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.12.3.jar
+/Users/jason.kim/Study/scala/cats/src/main/scala/sandbox/TypeClass.scala -> /Library/Java/JavaVirtualMachines/jbsdk8u112b403/Contents/Home/jre/lib/rt.jar
+/Users/jason.kim/Study/scala/cats/src/main/scala/sandbox/TypeClass.scala -> /Users/jason.kim/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.12.3.jar
+/Users/jason.kim/Study/scala/cats/src/main/scala/sandbox/TypeClass.scala -> /Users/jason.kim/.ivy2/cache/org.typelevel/cats-core_2.12/jars/cats-core_2.12-1.0.0-MF.jar
+direct source dependencies:
+0 items
+direct external dependencies:
+0 items
+public inherited source dependencies:
+0 items
+public inherited external dependencies:
+0 items
+member reference internal dependencies:
+1 items
+/Users/jason.kim/Study/scala/cats/src/main/scala/sandbox/CovariantAndContravariant.scala -> /Users/jason.kim/Study/scala/cats/src/main/scala/sandbox/TypeClass.scala
+member reference external dependencies:
+0 items
+inheritance internal dependencies:
+0 items
+inheritance external dependencies:
+0 items
+class names:
+54 items
+/Users/jason.kim/Study/scala/cats/src/main/scala/sandbox/CovariantAndContravariant.scala -> sandbox.CovariantAndContravariant
+/Users/jason.kim/Study/scala/cats/src/main/scala/sandbox/CovariantAndContravariant.scala -> sandbox.CovariantAndContravariant$
+/Users/jason.kim/Study/scala/cats/src/main/scala/sandbox/CovariantAndContravariant.scala -> sandbox.CovariantAndContravariant$$anon$1
+/Users/jason.kim/Study/scala/cats/src/main/scala/sandbox/CovariantAndContravariant.scala -> sandbox.CovariantAndContravariant$Circle
+/Users/jason.kim/Study/scala/cats/src/main/scala/sandbox/CovariantAndContravariant.scala -> sandbox.CovariantAndContravariant$Circle$
+/Users/jason.kim/Study/scala/cats/src/main/scala/sandbox/CovariantAndContravariant.scala -> sandbox.CovariantAndContravariant$JsonWriter$1
+/Users/jason.kim/Study/scala/cats/src/main/scala/sandbox/CovariantAndContravariant.scala -> sandbox.CovariantAndContravariant$Shape
+/Users/jason.kim/Study/scala/cats/src/main/scala/sandbox/Equality.scala -> sandbox.Equality
+/Users/jason.kim/Study/scala/cats/src/main/scala/sandbox/Equality.scala -> sandbox.Equality$
+/Users/jason.kim/Study/scala/cats/src/main/scala/sandbox/Equality.scala -> sandbox.Equality$Cat
+/Users/jason.kim/Study/scala/cats/src/main/scala/sandbox/Equality.scala -> sandbox.Equality$Cat$
+/Users/jason.kim/Study/scala/cats/src/main/scala/sandbox/FunctorTest.scala -> sandbox.FunctorTest
+/Users/jason.kim/Study/scala/cats/src/main/scala/sandbox/Main.scala -> sandbox.Main
+/Users/jason.kim/Study/scala/cats/src/main/scala/sandbox/Main.scala -> sandbox.Main$
+/Users/jason.kim/Study/scala/cats/src/main/scala/sandbox/Main.scala -> sandbox.Main$delayedInit$body
+/Users/jason.kim/Study/scala/cats/src/main/scala/sandbox/MonoidTest.scala -> sandbox.Monoid
+/Users/jason.kim/Study/scala/cats/src/main/scala/sandbox/MonoidTest.scala -> sandbox.Monoid$
+/Users/jason.kim/Study/scala/cats/src/main/scala/sandbox/MonoidTest.scala -> sandbox.MonoidTest
+/Users/jason.kim/Study/scala/cats/src/main/scala/sandbox/MonoidTest.scala -> sandbox.MonoidTest$
+/Users/jason.kim/Study/scala/cats/src/main/scala/sandbox/MonoidTest.scala -> sandbox.MonoidTest$$anon$1
+/Users/jason.kim/Study/scala/cats/src/main/scala/sandbox/MonoidTest.scala -> sandbox.MonoidTest$$anon$2
+/Users/jason.kim/Study/scala/cats/src/main/scala/sandbox/MonoidTest.scala -> sandbox.Semigroup
+/Users/jason.kim/Study/scala/cats/src/main/scala/sandbox/MonoidTest.scala -> sandbox.Semigroup$
+/Users/jason.kim/Study/scala/cats/src/main/scala/sandbox/TypeClass.scala -> sandbox.JsNull
+/Users/jason.kim/Study/scala/cats/src/main/scala/sandbox/TypeClass.scala -> sandbox.JsNull$
+/Users/jason.kim/Study/scala/cats/src/main/scala/sandbox/TypeClass.scala -> sandbox.JsNumber
+/Users/jason.kim/Study/scala/cats/src/main/scala/sandbox/TypeClass.scala -> sandbox.JsNumber$
+/Users/jason.kim/Study/scala/cats/src/main/scala/sandbox/TypeClass.scala -> sandbox.JsObject
+/Users/jason.kim/Study/scala/cats/src/main/scala/sandbox/TypeClass.scala -> sandbox.JsObject$
+/Users/jason.kim/Study/scala/cats/src/main/scala/sandbox/TypeClass.scala -> sandbox.JsString
+/Users/jason.kim/Study/scala/cats/src/main/scala/sandbox/TypeClass.scala -> sandbox.JsString$
+/Users/jason.kim/Study/scala/cats/src/main/scala/sandbox/TypeClass.scala -> sandbox.Json
+/Users/jason.kim/Study/scala/cats/src/main/scala/sandbox/TypeClass.scala -> sandbox.Json$
+/Users/jason.kim/Study/scala/cats/src/main/scala/sandbox/TypeClass.scala -> sandbox.JsonSyntax
+/Users/jason.kim/Study/scala/cats/src/main/scala/sandbox/TypeClass.scala -> sandbox.JsonSyntax$
+/Users/jason.kim/Study/scala/cats/src/main/scala/sandbox/TypeClass.scala -> sandbox.JsonSyntax$JsonWriterOps
+/Users/jason.kim/Study/scala/cats/src/main/scala/sandbox/TypeClass.scala -> sandbox.JsonWriter
+/Users/jason.kim/Study/scala/cats/src/main/scala/sandbox/TypeClass.scala -> sandbox.JsonWriterInstances
+/Users/jason.kim/Study/scala/cats/src/main/scala/sandbox/TypeClass.scala -> sandbox.JsonWriterInstances$
+/Users/jason.kim/Study/scala/cats/src/main/scala/sandbox/TypeClass.scala -> sandbox.JsonWriterInstances$$anon$1
+/Users/jason.kim/Study/scala/cats/src/main/scala/sandbox/TypeClass.scala -> sandbox.JsonWriterInstances$$anon$2
+/Users/jason.kim/Study/scala/cats/src/main/scala/sandbox/TypeClass.scala -> sandbox.JsonWriterInstances$$anon$3
+/Users/jason.kim/Study/scala/cats/src/main/scala/sandbox/TypeClass.scala -> sandbox.Person
+/Users/jason.kim/Study/scala/cats/src/main/scala/sandbox/TypeClass.scala -> sandbox.Person$
+/Users/jason.kim/Study/scala/cats/src/main/scala/sandbox/TypeClass.scala -> sandbox.TypeClass
+/Users/jason.kim/Study/scala/cats/src/main/scala/sandbox/TypeClass.scala -> sandbox.TypeClass$
+/Users/jason.kim/Study/scala/cats/src/main/scala/sandbox/TypeClass.scala -> sandbox.TypeClass$Cat
+/Users/jason.kim/Study/scala/cats/src/main/scala/sandbox/TypeClass.scala -> sandbox.TypeClass$Cat$
+/Users/jason.kim/Study/scala/cats/src/main/scala/sandbox/TypeClass.scala -> sandbox.TypeClass$Printable$2
+/Users/jason.kim/Study/scala/cats/src/main/scala/sandbox/TypeClass.scala -> sandbox.TypeClass$Printable$3$
+/Users/jason.kim/Study/scala/cats/src/main/scala/sandbox/TypeClass.scala -> sandbox.TypeClass$PrintableInstances$2$
+/Users/jason.kim/Study/scala/cats/src/main/scala/sandbox/TypeClass.scala -> sandbox.TypeClass$PrintableInstances$2$$anon$4
+/Users/jason.kim/Study/scala/cats/src/main/scala/sandbox/TypeClass.scala -> sandbox.TypeClass$PrintableInstances$2$$anon$5
+/Users/jason.kim/Study/scala/cats/src/main/scala/sandbox/TypeClass.scala -> sandbox.TypeClass$PrintableInstances$2$$anon$6
+used names:
+348 items
+/Users/jason.kim/Study/scala/cats/src/main/scala/sandbox/CovariantAndContravariant.scala -> $anon
+/Users/jason.kim/Study/scala/cats/src/main/scala/sandbox/CovariantAndContravariant.scala -> &&
+/Users/jason.kim/Study/scala/cats/src/main/scala/sandbox/CovariantAndContravariant.scala -> <init>
+/Users/jason.kim/Study/scala/cats/src/main/scala/sandbox/CovariantAndContravariant.scala -> <repeated>
+/Users/jason.kim/Study/scala/cats/src/main/scala/sandbox/CovariantAndContravariant.scala -> ==
+/Users/jason.kim/Study/scala/cats/src/main/scala/sandbox/CovariantAndContravariant.scala -> A
+/Users/jason.kim/Study/scala/cats/src/main/scala/sandbox/CovariantAndContravariant.scala -> AbstractFunction1
+/Users/jason.kim/Study/scala/cats/src/main/scala/sandbox/CovariantAndContravariant.scala -> Any
+/Users/jason.kim/Study/scala/cats/src/main/scala/sandbox/CovariantAndContravariant.scala -> AnyRef
+/Users/jason.kim/Study/scala/cats/src/main/scala/sandbox/CovariantAndContravariant.scala -> Array
+/Users/jason.kim/Study/scala/cats/src/main/scala/sandbox/CovariantAndContravariant.scala -> Boolean
+/Users/jason.kim/Study/scala/cats/src/main/scala/sandbox/CovariantAndContravariant.scala -> Circle
+/Users/jason.kim/Study/scala/cats/src/main/scala/sandbox/CovariantAndContravariant.scala -> CovariantAndContravariant
+/Users/jason.kim/Study/scala/cats/src/main/scala/sandbox/CovariantAndContravariant.scala -> Double
+/Users/jason.kim/Study/scala/cats/src/main/scala/sandbox/CovariantAndContravariant.scala -> IndexOutOfBoundsException
+/Users/jason.kim/Study/scala/cats/src/main/scala/sandbox/CovariantAndContravariant.scala -> Int
+/Users/jason.kim/Study/scala/cats/src/main/scala/sandbox/CovariantAndContravariant.scala -> Iterator
+/Users/jason.kim/Study/scala/cats/src/main/scala/sandbox/CovariantAndContravariant.scala -> JsString
+/Users/jason.kim/Study/scala/cats/src/main/scala/sandbox/CovariantAndContravariant.scala -> Json
+/Users/jason.kim/Study/scala/cats/src/main/scala/sandbox/CovariantAndContravariant.scala -> JsonWriter
+/Users/jason.kim/Study/scala/cats/src/main/scala/sandbox/CovariantAndContravariant.scala -> List
+/Users/jason.kim/Study/scala/cats/src/main/scala/sandbox/CovariantAndContravariant.scala -> None
+/Users/jason.kim/Study/scala/cats/src/main/scala/sandbox/CovariantAndContravariant.scala -> Nothing
+/Users/jason.kim/Study/scala/cats/src/main/scala/sandbox/CovariantAndContravariant.scala -> Object
+/Users/jason.kim/Study/scala/cats/src/main/scala/sandbox/CovariantAndContravariant.scala -> Option
+/Users/jason.kim/Study/scala/cats/src/main/scala/sandbox/CovariantAndContravariant.scala -> Predef
+/Users/jason.kim/Study/scala/cats/src/main/scala/sandbox/CovariantAndContravariant.scala -> Product
+/Users/jason.kim/Study/scala/cats/src/main/scala/sandbox/CovariantAndContravariant.scala -> ScalaRunTime
+/Users/jason.kim/Study/scala/cats/src/main/scala/sandbox/CovariantAndContravariant.scala -> Serializable
+/Users/jason.kim/Study/scala/cats/src/main/scala/sandbox/CovariantAndContravariant.scala -> Shape
+/Users/jason.kim/Study/scala/cats/src/main/scala/sandbox/CovariantAndContravariant.scala -> Some
+/Users/jason.kim/Study/scala/cats/src/main/scala/sandbox/CovariantAndContravariant.scala -> Statics
+/Users/jason.kim/Study/scala/cats/src/main/scala/sandbox/CovariantAndContravariant.scala -> String
+/Users/jason.kim/Study/scala/cats/src/main/scala/sandbox/CovariantAndContravariant.scala -> T
+/Users/jason.kim/Study/scala/cats/src/main/scala/sandbox/CovariantAndContravariant.scala -> T0
+/Users/jason.kim/Study/scala/cats/src/main/scala/sandbox/CovariantAndContravariant.scala -> Unit
+/Users/jason.kim/Study/scala/cats/src/main/scala/sandbox/CovariantAndContravariant.scala -> _root_
+/Users/jason.kim/Study/scala/cats/src/main/scala/sandbox/CovariantAndContravariant.scala -> _toString
+/Users/jason.kim/Study/scala/cats/src/main/scala/sandbox/CovariantAndContravariant.scala -> apply
+/Users/jason.kim/Study/scala/cats/src/main/scala/sandbox/CovariantAndContravariant.scala -> asInstanceOf
+/Users/jason.kim/Study/scala/cats/src/main/scala/sandbox/CovariantAndContravariant.scala -> circleWriter
+/Users/jason.kim/Study/scala/cats/src/main/scala/sandbox/CovariantAndContravariant.scala -> circles
+/Users/jason.kim/Study/scala/cats/src/main/scala/sandbox/CovariantAndContravariant.scala -> collection
+/Users/jason.kim/Study/scala/cats/src/main/scala/sandbox/CovariantAndContravariant.scala -> contravariant
+/Users/jason.kim/Study/scala/cats/src/main/scala/sandbox/CovariantAndContravariant.scala -> doubleHash
+/Users/jason.kim/Study/scala/cats/src/main/scala/sandbox/CovariantAndContravariant.scala -> eq
+/Users/jason.kim/Study/scala/cats/src/main/scala/sandbox/CovariantAndContravariant.scala -> finalizeHash
+/Users/jason.kim/Study/scala/cats/src/main/scala/sandbox/CovariantAndContravariant.scala -> format
+/Users/jason.kim/Study/scala/cats/src/main/scala/sandbox/CovariantAndContravariant.scala -> immutable
+/Users/jason.kim/Study/scala/cats/src/main/scala/sandbox/CovariantAndContravariant.scala -> isInstanceOf
+/Users/jason.kim/Study/scala/cats/src/main/scala/sandbox/CovariantAndContravariant.scala -> mix
+/Users/jason.kim/Study/scala/cats/src/main/scala/sandbox/CovariantAndContravariant.scala -> package
+/Users/jason.kim/Study/scala/cats/src/main/scala/sandbox/CovariantAndContravariant.scala -> println
+/Users/jason.kim/Study/scala/cats/src/main/scala/sandbox/CovariantAndContravariant.scala -> radius
+/Users/jason.kim/Study/scala/cats/src/main/scala/sandbox/CovariantAndContravariant.scala -> runtime
+/Users/jason.kim/Study/scala/cats/src/main/scala/sandbox/CovariantAndContravariant.scala -> sandbox
+/Users/jason.kim/Study/scala/cats/src/main/scala/sandbox/CovariantAndContravariant.scala -> scala
+/Users/jason.kim/Study/scala/cats/src/main/scala/sandbox/CovariantAndContravariant.scala -> shapeWriter
+/Users/jason.kim/Study/scala/cats/src/main/scala/sandbox/CovariantAndContravariant.scala -> shapes
+/Users/jason.kim/Study/scala/cats/src/main/scala/sandbox/CovariantAndContravariant.scala -> toString
+/Users/jason.kim/Study/scala/cats/src/main/scala/sandbox/CovariantAndContravariant.scala -> typedProductIterator
+/Users/jason.kim/Study/scala/cats/src/main/scala/sandbox/CovariantAndContravariant.scala -> value
+/Users/jason.kim/Study/scala/cats/src/main/scala/sandbox/CovariantAndContravariant.scala -> write
+/Users/jason.kim/Study/scala/cats/src/main/scala/sandbox/CovariantAndContravariant.scala -> writer
+/Users/jason.kim/Study/scala/cats/src/main/scala/sandbox/CovariantAndContravariant.scala -> ||
+/Users/jason.kim/Study/scala/cats/src/main/scala/sandbox/Equality.scala -> &&
+/Users/jason.kim/Study/scala/cats/src/main/scala/sandbox/Equality.scala -> <init>
+/Users/jason.kim/Study/scala/cats/src/main/scala/sandbox/Equality.scala -> ==
+/Users/jason.kim/Study/scala/cats/src/main/scala/sandbox/Equality.scala -> ===
+/Users/jason.kim/Study/scala/cats/src/main/scala/sandbox/Equality.scala -> A
+/Users/jason.kim/Study/scala/cats/src/main/scala/sandbox/Equality.scala -> AbstractFunction3
+/Users/jason.kim/Study/scala/cats/src/main/scala/sandbox/Equality.scala -> Any
+/Users/jason.kim/Study/scala/cats/src/main/scala/sandbox/Equality.scala -> AnyRef
+/Users/jason.kim/Study/scala/cats/src/main/scala/sandbox/Equality.scala -> Array
+/Users/jason.kim/Study/scala/cats/src/main/scala/sandbox/Equality.scala -> Boolean
+/Users/jason.kim/Study/scala/cats/src/main/scala/sandbox/Equality.scala -> Cat
+/Users/jason.kim/Study/scala/cats/src/main/scala/sandbox/Equality.scala -> Eq
+/Users/jason.kim/Study/scala/cats/src/main/scala/sandbox/Equality.scala -> EqOps
+/Users/jason.kim/Study/scala/cats/src/main/scala/sandbox/Equality.scala -> Equality
+/Users/jason.kim/Study/scala/cats/src/main/scala/sandbox/Equality.scala -> Function2
+/Users/jason.kim/Study/scala/cats/src/main/scala/sandbox/Equality.scala -> IndexOutOfBoundsException
+/Users/jason.kim/Study/scala/cats/src/main/scala/sandbox/Equality.scala -> Int
+/Users/jason.kim/Study/scala/cats/src/main/scala/sandbox/Equality.scala -> Iterator
+/Users/jason.kim/Study/scala/cats/src/main/scala/sandbox/Equality.scala -> None
+/Users/jason.kim/Study/scala/cats/src/main/scala/sandbox/Equality.scala -> Nothing
+/Users/jason.kim/Study/scala/cats/src/main/scala/sandbox/Equality.scala -> Object
+/Users/jason.kim/Study/scala/cats/src/main/scala/sandbox/Equality.scala -> Option
+/Users/jason.kim/Study/scala/cats/src/main/scala/sandbox/Equality.scala -> Order
+/Users/jason.kim/Study/scala/cats/src/main/scala/sandbox/Equality.scala -> Predef
+/Users/jason.kim/Study/scala/cats/src/main/scala/sandbox/Equality.scala -> Product
+/Users/jason.kim/Study/scala/cats/src/main/scala/sandbox/Equality.scala -> ScalaRunTime
+/Users/jason.kim/Study/scala/cats/src/main/scala/sandbox/Equality.scala -> Serializable
+/Users/jason.kim/Study/scala/cats/src/main/scala/sandbox/Equality.scala -> Some
+/Users/jason.kim/Study/scala/cats/src/main/scala/sandbox/Equality.scala -> Statics
+/Users/jason.kim/Study/scala/cats/src/main/scala/sandbox/Equality.scala -> String
+/Users/jason.kim/Study/scala/cats/src/main/scala/sandbox/Equality.scala -> T
+/Users/jason.kim/Study/scala/cats/src/main/scala/sandbox/Equality.scala -> T0
+/Users/jason.kim/Study/scala/cats/src/main/scala/sandbox/Equality.scala -> T1
+/Users/jason.kim/Study/scala/cats/src/main/scala/sandbox/Equality.scala -> T2
+/Users/jason.kim/Study/scala/cats/src/main/scala/sandbox/Equality.scala -> T3
+/Users/jason.kim/Study/scala/cats/src/main/scala/sandbox/Equality.scala -> Tuple3
+/Users/jason.kim/Study/scala/cats/src/main/scala/sandbox/Equality.scala -> Unit
+/Users/jason.kim/Study/scala/cats/src/main/scala/sandbox/Equality.scala -> _root_
+/Users/jason.kim/Study/scala/cats/src/main/scala/sandbox/Equality.scala -> _toString
+/Users/jason.kim/Study/scala/cats/src/main/scala/sandbox/Equality.scala -> age
+/Users/jason.kim/Study/scala/cats/src/main/scala/sandbox/Equality.scala -> anyHash
+/Users/jason.kim/Study/scala/cats/src/main/scala/sandbox/Equality.scala -> apply
+/Users/jason.kim/Study/scala/cats/src/main/scala/sandbox/Equality.scala -> asInstanceOf
+/Users/jason.kim/Study/scala/cats/src/main/scala/sandbox/Equality.scala -> cat1
+/Users/jason.kim/Study/scala/cats/src/main/scala/sandbox/Equality.scala -> cat2
+/Users/jason.kim/Study/scala/cats/src/main/scala/sandbox/Equality.scala -> catEq
+/Users/jason.kim/Study/scala/cats/src/main/scala/sandbox/Equality.scala -> cats
+/Users/jason.kim/Study/scala/cats/src/main/scala/sandbox/Equality.scala -> catsKernelStdEqForOption
+/Users/jason.kim/Study/scala/cats/src/main/scala/sandbox/Equality.scala -> catsKernelStdOrderForInt
+/Users/jason.kim/Study/scala/cats/src/main/scala/sandbox/Equality.scala -> catsKernelStdOrderForString
+/Users/jason.kim/Study/scala/cats/src/main/scala/sandbox/Equality.scala -> catsSyntaxEq
+/Users/jason.kim/Study/scala/cats/src/main/scala/sandbox/Equality.scala -> color
+/Users/jason.kim/Study/scala/cats/src/main/scala/sandbox/Equality.scala -> empty
+/Users/jason.kim/Study/scala/cats/src/main/scala/sandbox/Equality.scala -> eq
+/Users/jason.kim/Study/scala/cats/src/main/scala/sandbox/Equality.scala -> eqv
+/Users/jason.kim/Study/scala/cats/src/main/scala/sandbox/Equality.scala -> finalizeHash
+/Users/jason.kim/Study/scala/cats/src/main/scala/sandbox/Equality.scala -> instance
+/Users/jason.kim/Study/scala/cats/src/main/scala/sandbox/Equality.scala -> instances
+/Users/jason.kim/Study/scala/cats/src/main/scala/sandbox/Equality.scala -> int
+/Users/jason.kim/Study/scala/cats/src/main/scala/sandbox/Equality.scala -> isInstanceOf
+/Users/jason.kim/Study/scala/cats/src/main/scala/sandbox/Equality.scala -> kernel
+/Users/jason.kim/Study/scala/cats/src/main/scala/sandbox/Equality.scala -> mix
+/Users/jason.kim/Study/scala/cats/src/main/scala/sandbox/Equality.scala -> name
+/Users/jason.kim/Study/scala/cats/src/main/scala/sandbox/Equality.scala -> option
+/Users/jason.kim/Study/scala/cats/src/main/scala/sandbox/Equality.scala -> optionCat1
+/Users/jason.kim/Study/scala/cats/src/main/scala/sandbox/Equality.scala -> optionCat2
+/Users/jason.kim/Study/scala/cats/src/main/scala/sandbox/Equality.scala -> package
+/Users/jason.kim/Study/scala/cats/src/main/scala/sandbox/Equality.scala -> println
+/Users/jason.kim/Study/scala/cats/src/main/scala/sandbox/Equality.scala -> runtime
+/Users/jason.kim/Study/scala/cats/src/main/scala/sandbox/Equality.scala -> sandbox
+/Users/jason.kim/Study/scala/cats/src/main/scala/sandbox/Equality.scala -> scala
+/Users/jason.kim/Study/scala/cats/src/main/scala/sandbox/Equality.scala -> string
+/Users/jason.kim/Study/scala/cats/src/main/scala/sandbox/Equality.scala -> syntax
+/Users/jason.kim/Study/scala/cats/src/main/scala/sandbox/Equality.scala -> toString
+/Users/jason.kim/Study/scala/cats/src/main/scala/sandbox/Equality.scala -> typedProductIterator
+/Users/jason.kim/Study/scala/cats/src/main/scala/sandbox/Equality.scala -> ||
+/Users/jason.kim/Study/scala/cats/src/main/scala/sandbox/FunctorTest.scala -> *
+/Users/jason.kim/Study/scala/cats/src/main/scala/sandbox/FunctorTest.scala -> +
+/Users/jason.kim/Study/scala/cats/src/main/scala/sandbox/FunctorTest.scala -> <init>
+/Users/jason.kim/Study/scala/cats/src/main/scala/sandbox/FunctorTest.scala -> A
+/Users/jason.kim/Study/scala/cats/src/main/scala/sandbox/FunctorTest.scala -> Any
+/Users/jason.kim/Study/scala/cats/src/main/scala/sandbox/FunctorTest.scala -> AnyRef
+/Users/jason.kim/Study/scala/cats/src/main/scala/sandbox/FunctorTest.scala -> B
+/Users/jason.kim/Study/scala/cats/src/main/scala/sandbox/FunctorTest.scala -> Double
+/Users/jason.kim/Study/scala/cats/src/main/scala/sandbox/FunctorTest.scala -> F
+/Users/jason.kim/Study/scala/cats/src/main/scala/sandbox/FunctorTest.scala -> Function1
+/Users/jason.kim/Study/scala/cats/src/main/scala/sandbox/FunctorTest.scala -> Functor
+/Users/jason.kim/Study/scala/cats/src/main/scala/sandbox/FunctorTest.scala -> FunctorTest
+/Users/jason.kim/Study/scala/cats/src/main/scala/sandbox/FunctorTest.scala -> Int
+/Users/jason.kim/Study/scala/cats/src/main/scala/sandbox/FunctorTest.scala -> Monad
+/Users/jason.kim/Study/scala/cats/src/main/scala/sandbox/FunctorTest.scala -> Nothing
+/Users/jason.kim/Study/scala/cats/src/main/scala/sandbox/FunctorTest.scala -> Object
+/Users/jason.kim/Study/scala/cats/src/main/scala/sandbox/FunctorTest.scala -> Ops
+/Users/jason.kim/Study/scala/cats/src/main/scala/sandbox/FunctorTest.scala -> Predef
+/Users/jason.kim/Study/scala/cats/src/main/scala/sandbox/FunctorTest.scala -> String
+/Users/jason.kim/Study/scala/cats/src/main/scala/sandbox/FunctorTest.scala -> T1
+/Users/jason.kim/Study/scala/cats/src/main/scala/sandbox/FunctorTest.scala -> apply
+/Users/jason.kim/Study/scala/cats/src/main/scala/sandbox/FunctorTest.scala -> cats
+/Users/jason.kim/Study/scala/cats/src/main/scala/sandbox/FunctorTest.scala -> catsStdMonadForFunction1
+/Users/jason.kim/Study/scala/cats/src/main/scala/sandbox/FunctorTest.scala -> func
+/Users/jason.kim/Study/scala/cats/src/main/scala/sandbox/FunctorTest.scala -> function
+/Users/jason.kim/Study/scala/cats/src/main/scala/sandbox/FunctorTest.scala -> functor
+/Users/jason.kim/Study/scala/cats/src/main/scala/sandbox/FunctorTest.scala -> instances
+/Users/jason.kim/Study/scala/cats/src/main/scala/sandbox/FunctorTest.scala -> map
+/Users/jason.kim/Study/scala/cats/src/main/scala/sandbox/FunctorTest.scala -> package
+/Users/jason.kim/Study/scala/cats/src/main/scala/sandbox/FunctorTest.scala -> sandbox
+/Users/jason.kim/Study/scala/cats/src/main/scala/sandbox/FunctorTest.scala -> scala
+/Users/jason.kim/Study/scala/cats/src/main/scala/sandbox/FunctorTest.scala -> syntax
+/Users/jason.kim/Study/scala/cats/src/main/scala/sandbox/FunctorTest.scala -> toDouble
+/Users/jason.kim/Study/scala/cats/src/main/scala/sandbox/FunctorTest.scala -> toFunctorOps
+/Users/jason.kim/Study/scala/cats/src/main/scala/sandbox/FunctorTest.scala -> x
+/Users/jason.kim/Study/scala/cats/src/main/scala/sandbox/FunctorTest.scala -> β$2$
+/Users/jason.kim/Study/scala/cats/src/main/scala/sandbox/Main.scala -> <init>
+/Users/jason.kim/Study/scala/cats/src/main/scala/sandbox/Main.scala -> A
+/Users/jason.kim/Study/scala/cats/src/main/scala/sandbox/Main.scala -> Any
+/Users/jason.kim/Study/scala/cats/src/main/scala/sandbox/Main.scala -> App
+/Users/jason.kim/Study/scala/cats/src/main/scala/sandbox/Main.scala -> Main
+/Users/jason.kim/Study/scala/cats/src/main/scala/sandbox/Main.scala -> Monoid
+/Users/jason.kim/Study/scala/cats/src/main/scala/sandbox/Main.scala -> Nothing
+/Users/jason.kim/Study/scala/cats/src/main/scala/sandbox/Main.scala -> Object
+/Users/jason.kim/Study/scala/cats/src/main/scala/sandbox/Main.scala -> Predef
+/Users/jason.kim/Study/scala/cats/src/main/scala/sandbox/Main.scala -> Semigroup
+/Users/jason.kim/Study/scala/cats/src/main/scala/sandbox/Main.scala -> SemigroupOps
+/Users/jason.kim/Study/scala/cats/src/main/scala/sandbox/Main.scala -> String
+/Users/jason.kim/Study/scala/cats/src/main/scala/sandbox/Main.scala -> Unit
+/Users/jason.kim/Study/scala/cats/src/main/scala/sandbox/Main.scala -> cats
+/Users/jason.kim/Study/scala/cats/src/main/scala/sandbox/Main.scala -> catsKernelStdMonoidForString
+/Users/jason.kim/Study/scala/cats/src/main/scala/sandbox/Main.scala -> catsSyntaxSemigroup
+/Users/jason.kim/Study/scala/cats/src/main/scala/sandbox/Main.scala -> combine
+/Users/jason.kim/Study/scala/cats/src/main/scala/sandbox/Main.scala -> instances
+/Users/jason.kim/Study/scala/cats/src/main/scala/sandbox/Main.scala -> package
+/Users/jason.kim/Study/scala/cats/src/main/scala/sandbox/Main.scala -> println
+/Users/jason.kim/Study/scala/cats/src/main/scala/sandbox/Main.scala -> sandbox
+/Users/jason.kim/Study/scala/cats/src/main/scala/sandbox/Main.scala -> scala
+/Users/jason.kim/Study/scala/cats/src/main/scala/sandbox/Main.scala -> semigroup
+/Users/jason.kim/Study/scala/cats/src/main/scala/sandbox/Main.scala -> string
+/Users/jason.kim/Study/scala/cats/src/main/scala/sandbox/Main.scala -> syntax
+/Users/jason.kim/Study/scala/cats/src/main/scala/sandbox/Main.scala -> |+|
+/Users/jason.kim/Study/scala/cats/src/main/scala/sandbox/MonoidTest.scala -> $anon
+/Users/jason.kim/Study/scala/cats/src/main/scala/sandbox/MonoidTest.scala -> <init>
+/Users/jason.kim/Study/scala/cats/src/main/scala/sandbox/MonoidTest.scala -> <repeated>
+/Users/jason.kim/Study/scala/cats/src/main/scala/sandbox/MonoidTest.scala -> A
+/Users/jason.kim/Study/scala/cats/src/main/scala/sandbox/MonoidTest.scala -> Any
+/Users/jason.kim/Study/scala/cats/src/main/scala/sandbox/MonoidTest.scala -> AnyRef
+/Users/jason.kim/Study/scala/cats/src/main/scala/sandbox/MonoidTest.scala -> Array
+/Users/jason.kim/Study/scala/cats/src/main/scala/sandbox/MonoidTest.scala -> GenSet
+/Users/jason.kim/Study/scala/cats/src/main/scala/sandbox/MonoidTest.scala -> Int
+/Users/jason.kim/Study/scala/cats/src/main/scala/sandbox/MonoidTest.scala -> Monoid
+/Users/jason.kim/Study/scala/cats/src/main/scala/sandbox/MonoidTest.scala -> MonoidTest
+/Users/jason.kim/Study/scala/cats/src/main/scala/sandbox/MonoidTest.scala -> Nothing
+/Users/jason.kim/Study/scala/cats/src/main/scala/sandbox/MonoidTest.scala -> Object
+/Users/jason.kim/Study/scala/cats/src/main/scala/sandbox/MonoidTest.scala -> Predef
+/Users/jason.kim/Study/scala/cats/src/main/scala/sandbox/MonoidTest.scala -> Semigroup
+/Users/jason.kim/Study/scala/cats/src/main/scala/sandbox/MonoidTest.scala -> Set
+/Users/jason.kim/Study/scala/cats/src/main/scala/sandbox/MonoidTest.scala -> String
+/Users/jason.kim/Study/scala/cats/src/main/scala/sandbox/MonoidTest.scala -> Unit
+/Users/jason.kim/Study/scala/cats/src/main/scala/sandbox/MonoidTest.scala -> a
+/Users/jason.kim/Study/scala/cats/src/main/scala/sandbox/MonoidTest.scala -> apply
+/Users/jason.kim/Study/scala/cats/src/main/scala/sandbox/MonoidTest.scala -> b
+/Users/jason.kim/Study/scala/cats/src/main/scala/sandbox/MonoidTest.scala -> combine
+/Users/jason.kim/Study/scala/cats/src/main/scala/sandbox/MonoidTest.scala -> diff
+/Users/jason.kim/Study/scala/cats/src/main/scala/sandbox/MonoidTest.scala -> empty
+/Users/jason.kim/Study/scala/cats/src/main/scala/sandbox/MonoidTest.scala -> intSetMonoid
+/Users/jason.kim/Study/scala/cats/src/main/scala/sandbox/MonoidTest.scala -> intersect
+/Users/jason.kim/Study/scala/cats/src/main/scala/sandbox/MonoidTest.scala -> monoid
+/Users/jason.kim/Study/scala/cats/src/main/scala/sandbox/MonoidTest.scala -> println
+/Users/jason.kim/Study/scala/cats/src/main/scala/sandbox/MonoidTest.scala -> sandbox
+/Users/jason.kim/Study/scala/cats/src/main/scala/sandbox/MonoidTest.scala -> scala
+/Users/jason.kim/Study/scala/cats/src/main/scala/sandbox/MonoidTest.scala -> semigroup
+/Users/jason.kim/Study/scala/cats/src/main/scala/sandbox/MonoidTest.scala -> strSetMonoid
+/Users/jason.kim/Study/scala/cats/src/main/scala/sandbox/MonoidTest.scala -> strSetSemigroup
+/Users/jason.kim/Study/scala/cats/src/main/scala/sandbox/MonoidTest.scala -> symDiffMonoid
+/Users/jason.kim/Study/scala/cats/src/main/scala/sandbox/MonoidTest.scala -> toString
+/Users/jason.kim/Study/scala/cats/src/main/scala/sandbox/MonoidTest.scala -> union
+/Users/jason.kim/Study/scala/cats/src/main/scala/sandbox/TypeClass.scala -> $anon
+/Users/jason.kim/Study/scala/cats/src/main/scala/sandbox/TypeClass.scala -> &&
+/Users/jason.kim/Study/scala/cats/src/main/scala/sandbox/TypeClass.scala -> ->
+/Users/jason.kim/Study/scala/cats/src/main/scala/sandbox/TypeClass.scala -> <init>
+/Users/jason.kim/Study/scala/cats/src/main/scala/sandbox/TypeClass.scala -> <repeated>
+/Users/jason.kim/Study/scala/cats/src/main/scala/sandbox/TypeClass.scala -> ==
+/Users/jason.kim/Study/scala/cats/src/main/scala/sandbox/TypeClass.scala -> A
+/Users/jason.kim/Study/scala/cats/src/main/scala/sandbox/TypeClass.scala -> AbstractFunction1
+/Users/jason.kim/Study/scala/cats/src/main/scala/sandbox/TypeClass.scala -> AbstractFunction2
+/Users/jason.kim/Study/scala/cats/src/main/scala/sandbox/TypeClass.scala -> AbstractFunction3
+/Users/jason.kim/Study/scala/cats/src/main/scala/sandbox/TypeClass.scala -> Any
+/Users/jason.kim/Study/scala/cats/src/main/scala/sandbox/TypeClass.scala -> AnyRef
+/Users/jason.kim/Study/scala/cats/src/main/scala/sandbox/TypeClass.scala -> Array
+/Users/jason.kim/Study/scala/cats/src/main/scala/sandbox/TypeClass.scala -> ArrowAssoc
+/Users/jason.kim/Study/scala/cats/src/main/scala/sandbox/TypeClass.scala -> B
+/Users/jason.kim/Study/scala/cats/src/main/scala/sandbox/TypeClass.scala -> Boolean
+/Users/jason.kim/Study/scala/cats/src/main/scala/sandbox/TypeClass.scala -> Cat
+/Users/jason.kim/Study/scala/cats/src/main/scala/sandbox/TypeClass.scala -> Double
+/Users/jason.kim/Study/scala/cats/src/main/scala/sandbox/TypeClass.scala -> Function1
+/Users/jason.kim/Study/scala/cats/src/main/scala/sandbox/TypeClass.scala -> IndexOutOfBoundsException
+/Users/jason.kim/Study/scala/cats/src/main/scala/sandbox/TypeClass.scala -> Int
+/Users/jason.kim/Study/scala/cats/src/main/scala/sandbox/TypeClass.scala -> Iterator
+/Users/jason.kim/Study/scala/cats/src/main/scala/sandbox/TypeClass.scala -> JsNull
+/Users/jason.kim/Study/scala/cats/src/main/scala/sandbox/TypeClass.scala -> JsNumber
+/Users/jason.kim/Study/scala/cats/src/main/scala/sandbox/TypeClass.scala -> JsObject
+/Users/jason.kim/Study/scala/cats/src/main/scala/sandbox/TypeClass.scala -> JsString
+/Users/jason.kim/Study/scala/cats/src/main/scala/sandbox/TypeClass.scala -> Json
+/Users/jason.kim/Study/scala/cats/src/main/scala/sandbox/TypeClass.scala -> JsonSyntax
+/Users/jason.kim/Study/scala/cats/src/main/scala/sandbox/TypeClass.scala -> JsonWriter
+/Users/jason.kim/Study/scala/cats/src/main/scala/sandbox/TypeClass.scala -> JsonWriterInstances
+/Users/jason.kim/Study/scala/cats/src/main/scala/sandbox/TypeClass.scala -> JsonWriterOps
+/Users/jason.kim/Study/scala/cats/src/main/scala/sandbox/TypeClass.scala -> Map
+/Users/jason.kim/Study/scala/cats/src/main/scala/sandbox/TypeClass.scala -> MatchError
+/Users/jason.kim/Study/scala/cats/src/main/scala/sandbox/TypeClass.scala -> None
+/Users/jason.kim/Study/scala/cats/src/main/scala/sandbox/TypeClass.scala -> Nothing
+/Users/jason.kim/Study/scala/cats/src/main/scala/sandbox/TypeClass.scala -> Object
+/Users/jason.kim/Study/scala/cats/src/main/scala/sandbox/TypeClass.scala -> Ops
+/Users/jason.kim/Study/scala/cats/src/main/scala/sandbox/TypeClass.scala -> Option
+/Users/jason.kim/Study/scala/cats/src/main/scala/sandbox/TypeClass.scala -> Person
+/Users/jason.kim/Study/scala/cats/src/main/scala/sandbox/TypeClass.scala -> Predef
+/Users/jason.kim/Study/scala/cats/src/main/scala/sandbox/TypeClass.scala -> Printable
+/Users/jason.kim/Study/scala/cats/src/main/scala/sandbox/TypeClass.scala -> PrintableInstances
+/Users/jason.kim/Study/scala/cats/src/main/scala/sandbox/TypeClass.scala -> Product
+/Users/jason.kim/Study/scala/cats/src/main/scala/sandbox/TypeClass.scala -> ScalaRunTime
+/Users/jason.kim/Study/scala/cats/src/main/scala/sandbox/TypeClass.scala -> Serializable
+/Users/jason.kim/Study/scala/cats/src/main/scala/sandbox/TypeClass.scala -> Show
+/Users/jason.kim/Study/scala/cats/src/main/scala/sandbox/TypeClass.scala -> Some
+/Users/jason.kim/Study/scala/cats/src/main/scala/sandbox/TypeClass.scala -> Statics
+/Users/jason.kim/Study/scala/cats/src/main/scala/sandbox/TypeClass.scala -> String
+/Users/jason.kim/Study/scala/cats/src/main/scala/sandbox/TypeClass.scala -> StringContext
+/Users/jason.kim/Study/scala/cats/src/main/scala/sandbox/TypeClass.scala -> T
+/Users/jason.kim/Study/scala/cats/src/main/scala/sandbox/TypeClass.scala -> T0
+/Users/jason.kim/Study/scala/cats/src/main/scala/sandbox/TypeClass.scala -> T1
+/Users/jason.kim/Study/scala/cats/src/main/scala/sandbox/TypeClass.scala -> T2
+/Users/jason.kim/Study/scala/cats/src/main/scala/sandbox/TypeClass.scala -> T3
+/Users/jason.kim/Study/scala/cats/src/main/scala/sandbox/TypeClass.scala -> Tuple2
+/Users/jason.kim/Study/scala/cats/src/main/scala/sandbox/TypeClass.scala -> Tuple3
+/Users/jason.kim/Study/scala/cats/src/main/scala/sandbox/TypeClass.scala -> TypeClass
+/Users/jason.kim/Study/scala/cats/src/main/scala/sandbox/TypeClass.scala -> Unit
+/Users/jason.kim/Study/scala/cats/src/main/scala/sandbox/TypeClass.scala -> _hashCode
+/Users/jason.kim/Study/scala/cats/src/main/scala/sandbox/TypeClass.scala -> _root_
+/Users/jason.kim/Study/scala/cats/src/main/scala/sandbox/TypeClass.scala -> _toString
+/Users/jason.kim/Study/scala/cats/src/main/scala/sandbox/TypeClass.scala -> a
+/Users/jason.kim/Study/scala/cats/src/main/scala/sandbox/TypeClass.scala -> aValue
+/Users/jason.kim/Study/scala/cats/src/main/scala/sandbox/TypeClass.scala -> age
+/Users/jason.kim/Study/scala/cats/src/main/scala/sandbox/TypeClass.scala -> anyHash
+/Users/jason.kim/Study/scala/cats/src/main/scala/sandbox/TypeClass.scala -> apply
+/Users/jason.kim/Study/scala/cats/src/main/scala/sandbox/TypeClass.scala -> asInstanceOf
+/Users/jason.kim/Study/scala/cats/src/main/scala/sandbox/TypeClass.scala -> cat
+/Users/jason.kim/Study/scala/cats/src/main/scala/sandbox/TypeClass.scala -> catPrinter
+/Users/jason.kim/Study/scala/cats/src/main/scala/sandbox/TypeClass.scala -> catShow
+/Users/jason.kim/Study/scala/cats/src/main/scala/sandbox/TypeClass.scala -> cats
+/Users/jason.kim/Study/scala/cats/src/main/scala/sandbox/TypeClass.scala -> catsStdShowForInt
+/Users/jason.kim/Study/scala/cats/src/main/scala/sandbox/TypeClass.scala -> catsStdShowForString
+/Users/jason.kim/Study/scala/cats/src/main/scala/sandbox/TypeClass.scala -> color
+/Users/jason.kim/Study/scala/cats/src/main/scala/sandbox/TypeClass.scala -> doubleHash
+/Users/jason.kim/Study/scala/cats/src/main/scala/sandbox/TypeClass.scala -> email
+/Users/jason.kim/Study/scala/cats/src/main/scala/sandbox/TypeClass.scala -> eq
+/Users/jason.kim/Study/scala/cats/src/main/scala/sandbox/TypeClass.scala -> finalizeHash
+/Users/jason.kim/Study/scala/cats/src/main/scala/sandbox/TypeClass.scala -> format
+/Users/jason.kim/Study/scala/cats/src/main/scala/sandbox/TypeClass.scala -> get
+/Users/jason.kim/Study/scala/cats/src/main/scala/sandbox/TypeClass.scala -> implicits
+/Users/jason.kim/Study/scala/cats/src/main/scala/sandbox/TypeClass.scala -> intPrinter
+/Users/jason.kim/Study/scala/cats/src/main/scala/sandbox/TypeClass.scala -> isInstanceOf
+/Users/jason.kim/Study/scala/cats/src/main/scala/sandbox/TypeClass.scala -> mix
+/Users/jason.kim/Study/scala/cats/src/main/scala/sandbox/TypeClass.scala -> name
+/Users/jason.kim/Study/scala/cats/src/main/scala/sandbox/TypeClass.scala -> option
+/Users/jason.kim/Study/scala/cats/src/main/scala/sandbox/TypeClass.scala -> optionWriter
+/Users/jason.kim/Study/scala/cats/src/main/scala/sandbox/TypeClass.scala -> p
+/Users/jason.kim/Study/scala/cats/src/main/scala/sandbox/TypeClass.scala -> package
+/Users/jason.kim/Study/scala/cats/src/main/scala/sandbox/TypeClass.scala -> personWriter
+/Users/jason.kim/Study/scala/cats/src/main/scala/sandbox/TypeClass.scala -> print
+/Users/jason.kim/Study/scala/cats/src/main/scala/sandbox/TypeClass.scala -> println
+/Users/jason.kim/Study/scala/cats/src/main/scala/sandbox/TypeClass.scala -> runtime
+/Users/jason.kim/Study/scala/cats/src/main/scala/sandbox/TypeClass.scala -> s
+/Users/jason.kim/Study/scala/cats/src/main/scala/sandbox/TypeClass.scala -> sandbox
+/Users/jason.kim/Study/scala/cats/src/main/scala/sandbox/TypeClass.scala -> scala
+/Users/jason.kim/Study/scala/cats/src/main/scala/sandbox/TypeClass.scala -> show
+/Users/jason.kim/Study/scala/cats/src/main/scala/sandbox/TypeClass.scala -> stringPrinter
+/Users/jason.kim/Study/scala/cats/src/main/scala/sandbox/TypeClass.scala -> stringWriter
+/Users/jason.kim/Study/scala/cats/src/main/scala/sandbox/TypeClass.scala -> toJson
+/Users/jason.kim/Study/scala/cats/src/main/scala/sandbox/TypeClass.scala -> toShowOps
+/Users/jason.kim/Study/scala/cats/src/main/scala/sandbox/TypeClass.scala -> toString
+/Users/jason.kim/Study/scala/cats/src/main/scala/sandbox/TypeClass.scala -> typedProductIterator
+/Users/jason.kim/Study/scala/cats/src/main/scala/sandbox/TypeClass.scala -> value
+/Users/jason.kim/Study/scala/cats/src/main/scala/sandbox/TypeClass.scala -> w
+/Users/jason.kim/Study/scala/cats/src/main/scala/sandbox/TypeClass.scala -> write
+/Users/jason.kim/Study/scala/cats/src/main/scala/sandbox/TypeClass.scala -> writer
+/Users/jason.kim/Study/scala/cats/src/main/scala/sandbox/TypeClass.scala -> ||
+product stamps:
+54 items
+/Users/jason.kim/Study/scala/cats/target/scala-2.12/classes/sandbox/CovariantAndContravariant$$anon$1.class -> lastModified(1529826293000)
+/Users/jason.kim/Study/scala/cats/target/scala-2.12/classes/sandbox/CovariantAndContravariant$.class -> lastModified(1529826293000)
+/Users/jason.kim/Study/scala/cats/target/scala-2.12/classes/sandbox/CovariantAndContravariant$Circle$.class -> lastModified(1529826293000)
+/Users/jason.kim/Study/scala/cats/target/scala-2.12/classes/sandbox/CovariantAndContravariant$Circle.class -> lastModified(1529826293000)
+/Users/jason.kim/Study/scala/cats/target/scala-2.12/classes/sandbox/CovariantAndContravariant$JsonWriter$1.class -> lastModified(1529826293000)
+/Users/jason.kim/Study/scala/cats/target/scala-2.12/classes/sandbox/CovariantAndContravariant$Shape.class -> lastModified(1529826293000)
+/Users/jason.kim/Study/scala/cats/target/scala-2.12/classes/sandbox/CovariantAndContravariant.class -> lastModified(1529826293000)
+/Users/jason.kim/Study/scala/cats/target/scala-2.12/classes/sandbox/Equality$.class -> lastModified(1529826293000)
+/Users/jason.kim/Study/scala/cats/target/scala-2.12/classes/sandbox/Equality$Cat$.class -> lastModified(1529826293000)
+/Users/jason.kim/Study/scala/cats/target/scala-2.12/classes/sandbox/Equality$Cat.class -> lastModified(1529826293000)
+/Users/jason.kim/Study/scala/cats/target/scala-2.12/classes/sandbox/Equality.class -> lastModified(1529826293000)
+/Users/jason.kim/Study/scala/cats/target/scala-2.12/classes/sandbox/FunctorTest.class -> lastModified(1529826293000)
+/Users/jason.kim/Study/scala/cats/target/scala-2.12/classes/sandbox/JsNull$.class -> lastModified(1529826293000)
+/Users/jason.kim/Study/scala/cats/target/scala-2.12/classes/sandbox/JsNull.class -> lastModified(1529826293000)
+/Users/jason.kim/Study/scala/cats/target/scala-2.12/classes/sandbox/JsNumber$.class -> lastModified(1529826293000)
+/Users/jason.kim/Study/scala/cats/target/scala-2.12/classes/sandbox/JsNumber.class -> lastModified(1529826293000)
+/Users/jason.kim/Study/scala/cats/target/scala-2.12/classes/sandbox/JsObject$.class -> lastModified(1529826293000)
+/Users/jason.kim/Study/scala/cats/target/scala-2.12/classes/sandbox/JsObject.class -> lastModified(1529826293000)
+/Users/jason.kim/Study/scala/cats/target/scala-2.12/classes/sandbox/JsString$.class -> lastModified(1529826293000)
+/Users/jason.kim/Study/scala/cats/target/scala-2.12/classes/sandbox/JsString.class -> lastModified(1529826293000)
+/Users/jason.kim/Study/scala/cats/target/scala-2.12/classes/sandbox/Json$.class -> lastModified(1529826293000)
+/Users/jason.kim/Study/scala/cats/target/scala-2.12/classes/sandbox/Json.class -> lastModified(1529826293000)
+/Users/jason.kim/Study/scala/cats/target/scala-2.12/classes/sandbox/JsonSyntax$.class -> lastModified(1529826293000)
+/Users/jason.kim/Study/scala/cats/target/scala-2.12/classes/sandbox/JsonSyntax$JsonWriterOps.class -> lastModified(1529826293000)
+/Users/jason.kim/Study/scala/cats/target/scala-2.12/classes/sandbox/JsonSyntax.class -> lastModified(1529826293000)
+/Users/jason.kim/Study/scala/cats/target/scala-2.12/classes/sandbox/JsonWriter.class -> lastModified(1529826293000)
+/Users/jason.kim/Study/scala/cats/target/scala-2.12/classes/sandbox/JsonWriterInstances$$anon$1.class -> lastModified(1529826293000)
+/Users/jason.kim/Study/scala/cats/target/scala-2.12/classes/sandbox/JsonWriterInstances$$anon$2.class -> lastModified(1529826293000)
+/Users/jason.kim/Study/scala/cats/target/scala-2.12/classes/sandbox/JsonWriterInstances$$anon$3.class -> lastModified(1529826293000)
+/Users/jason.kim/Study/scala/cats/target/scala-2.12/classes/sandbox/JsonWriterInstances$.class -> lastModified(1529826293000)
+/Users/jason.kim/Study/scala/cats/target/scala-2.12/classes/sandbox/JsonWriterInstances.class -> lastModified(1529826293000)
+/Users/jason.kim/Study/scala/cats/target/scala-2.12/classes/sandbox/Main$.class -> lastModified(1529826293000)
+/Users/jason.kim/Study/scala/cats/target/scala-2.12/classes/sandbox/Main$delayedInit$body.class -> lastModified(1529826293000)
+/Users/jason.kim/Study/scala/cats/target/scala-2.12/classes/sandbox/Main.class -> lastModified(1529826293000)
+/Users/jason.kim/Study/scala/cats/target/scala-2.12/classes/sandbox/Monoid$.class -> lastModified(1529826293000)
+/Users/jason.kim/Study/scala/cats/target/scala-2.12/classes/sandbox/Monoid.class -> lastModified(1529826293000)
+/Users/jason.kim/Study/scala/cats/target/scala-2.12/classes/sandbox/MonoidTest$$anon$1.class -> lastModified(1529826293000)
+/Users/jason.kim/Study/scala/cats/target/scala-2.12/classes/sandbox/MonoidTest$$anon$2.class -> lastModified(1529826293000)
+/Users/jason.kim/Study/scala/cats/target/scala-2.12/classes/sandbox/MonoidTest$.class -> lastModified(1529826293000)
+/Users/jason.kim/Study/scala/cats/target/scala-2.12/classes/sandbox/MonoidTest.class -> lastModified(1529826293000)
+/Users/jason.kim/Study/scala/cats/target/scala-2.12/classes/sandbox/Person$.class -> lastModified(1529826293000)
+/Users/jason.kim/Study/scala/cats/target/scala-2.12/classes/sandbox/Person.class -> lastModified(1529826293000)
+/Users/jason.kim/Study/scala/cats/target/scala-2.12/classes/sandbox/Semigroup$.class -> lastModified(1529826293000)
+/Users/jason.kim/Study/scala/cats/target/scala-2.12/classes/sandbox/Semigroup.class -> lastModified(1529826293000)
+/Users/jason.kim/Study/scala/cats/target/scala-2.12/classes/sandbox/TypeClass$.class -> lastModified(1529826293000)
+/Users/jason.kim/Study/scala/cats/target/scala-2.12/classes/sandbox/TypeClass$Cat$.class -> lastModified(1529826293000)
+/Users/jason.kim/Study/scala/cats/target/scala-2.12/classes/sandbox/TypeClass$Cat.class -> lastModified(1529826293000)
+/Users/jason.kim/Study/scala/cats/target/scala-2.12/classes/sandbox/TypeClass$Printable$2.class -> lastModified(1529826293000)
+/Users/jason.kim/Study/scala/cats/target/scala-2.12/classes/sandbox/TypeClass$Printable$3$.class -> lastModified(1529826293000)
+/Users/jason.kim/Study/scala/cats/target/scala-2.12/classes/sandbox/TypeClass$PrintableInstances$2$$anon$4.class -> lastModified(1529826293000)
+/Users/jason.kim/Study/scala/cats/target/scala-2.12/classes/sandbox/TypeClass$PrintableInstances$2$$anon$5.class -> lastModified(1529826293000)
+/Users/jason.kim/Study/scala/cats/target/scala-2.12/classes/sandbox/TypeClass$PrintableInstances$2$$anon$6.class -> lastModified(1529826293000)
+/Users/jason.kim/Study/scala/cats/target/scala-2.12/classes/sandbox/TypeClass$PrintableInstances$2$.class -> lastModified(1529826293000)
+/Users/jason.kim/Study/scala/cats/target/scala-2.12/classes/sandbox/TypeClass.class -> lastModified(1529826293000)
+source stamps:
+6 items
+/Users/jason.kim/Study/scala/cats/src/main/scala/sandbox/CovariantAndContravariant.scala -> hash(20625be05f29828d979ab4cd3af831a88e23cef7)
+/Users/jason.kim/Study/scala/cats/src/main/scala/sandbox/Equality.scala -> hash(ecc9ce23088033b82915bb3343a2c62c88375f5b)
+/Users/jason.kim/Study/scala/cats/src/main/scala/sandbox/FunctorTest.scala -> hash(743108533cce1002324c7c7d5ef0f1187133422e)
+/Users/jason.kim/Study/scala/cats/src/main/scala/sandbox/Main.scala -> hash(c60a91065244909a74c666f19649d7e021b673de)
+/Users/jason.kim/Study/scala/cats/src/main/scala/sandbox/MonoidTest.scala -> hash(a26d326b0169ae4b80601fbec9baa1c416417313)
+/Users/jason.kim/Study/scala/cats/src/main/scala/sandbox/TypeClass.scala -> hash(3b12682bd033bd4c667c07b77d18d805be34ba49)
+binary stamps:
+4 items
+/Library/Java/JavaVirtualMachines/jbsdk8u112b403/Contents/Home/jre/lib/rt.jar -> lastModified(1474655724000)
+/Users/jason.kim/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.12.3.jar -> lastModified(1500979666000)
+/Users/jason.kim/.ivy2/cache/org.typelevel/cats-core_2.12/jars/cats-core_2.12-1.0.0-MF.jar -> lastModified(1501178967000)
+/Users/jason.kim/.ivy2/cache/org.typelevel/cats-kernel_2.12/jars/cats-kernel_2.12-1.0.0-MF.jar -> lastModified(1501178848000)
+class names:
+4 items
+/Library/Java/JavaVirtualMachines/jbsdk8u112b403/Contents/Home/jre/lib/rt.jar -> java.lang.Object
+/Users/jason.kim/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.12.3.jar -> scala.runtime.AbstractFunction1
+/Users/jason.kim/.ivy2/cache/org.typelevel/cats-core_2.12/jars/cats-core_2.12-1.0.0-MF.jar -> cats.instances.StringInstances
+/Users/jason.kim/.ivy2/cache/org.typelevel/cats-kernel_2.12/jars/cats-kernel_2.12-1.0.0-MF.jar -> cats.kernel.Monoid
+internal apis:
+6 items
+/Users/jason.kim/Study/scala/cats/src/main/scala/sandbox/CovariantAndContravariant.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlSjH5SdlLSkQCAAdJAAdhcGlIYXNoWgAIaGFzTWFjcm9aABBoYXNQYWNrYWdlT2JqZWN0TAAYX2ludGVybmFsT25seV9uYW1lSGFzaGVzdAAkTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoZXM7TAADYXBpdAAVTHhzYnRpL2FwaS9Tb3VyY2VBUEk7TAALY29tcGlsYXRpb250ABdMeHNidGkvYXBpL0NvbXBpbGF0aW9uO1sABGhhc2h0AAJbQnhwXwdpdQAAc3IAInhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoZXNU2r6Z+tTsTAIAAlsAD2ltcGxpY2l0TWVtYmVyc3QAI1tMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2g7WwAOcmVndWxhck1lbWJlcnNxAH4AB3hwdXIAI1tMeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2g7SVqAtt2Wi/QCAAB4cAAAAAB1cQB+AAkAAAAnc3IAIHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoWw71InY4V88CAAJJAARoYXNoTAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hwwwsTonQABm5vdGlmeXNxAH4ADEZCg590ABlDb3ZhcmlhbnRBbmRDb250cmF2YXJpYW50c3EAfgAMqfkSwHQAB3VuYXBwbHlzcQB+AAz4MX2ndAAEd2FpdHNxAH4ADBvgOKx0AAZDaXJjbGVzcQB+AAwZcDNbdAANJGFzSW5zdGFuY2VPZnNxAH4ADPdHGSZ0AAdjb21wb3Nlc3EAfgAMQQppFnQADHByb2R1Y3RBcml0eXNxAH4ADLdevnp0AAZlcXVhbHNzcQB+AAxgBIphdAAMYXNJbnN0YW5jZU9mc3EAfgAMumMpa3QADHN5bmNocm9uaXplZHNxAH4ADLl4WVV0AA0kaXNJbnN0YW5jZU9mc3EAfgAMuV2O53QAB2FuZFRoZW5zcQB+AAwsIz1KdAAIY2FuRXF1YWxzcQB+AAyk9mIIdAAEbWFpbnNxAH4ADLG58FR0AA1wcm9kdWN0UHJlZml4c3EAfgAMYFTzdHQABnJhZGl1c3NxAH4ADEtpfgN0AAlub3RpZnlBbGxzcQB+AAwp4ALMdAAMaXNJbnN0YW5jZU9mc3EAfgAMI9E/U3QABVNoYXBlc3EAfgAMKZ+4jnQABjxpbml0PnNxAH4ADL2Vg790AAVhcHBseXNxAH4ADGd6hYt0AAI9PXNxAH4ADB6FfQV0AAVjbG9uZXNxAH4ADAlxEQ10AAljb3ZhcmlhbnRzcQB+AAys2gqEdAAGJGluaXQkc3EAfgAMxtYvFHQABGNvcHlzcQB+AAzxLLStdAAIdG9TdHJpbmdzcQB+AAw1fwcjdAACIT1zcQB+AAxIag4MdAANY29udHJhdmFyaWFudHNxAH4ADByUOqJ0AAhnZXRDbGFzc3NxAH4ADL7hXuh0AA5jb3B5JGRlZmF1bHQkMXNxAH4ADKNs0gh0AAJuZXNxAH4ADJ4guox0AAJlcXNxAH4ADMvYgYx0AA9wcm9kdWN0SXRlcmF0b3JzcQB+AAx04qgZdAACIyNzcQB+AAx10EA3dAAIZmluYWxpemVzcQB+AAzBcJz4dAAOcHJvZHVjdEVsZW1lbnRzcQB+AAz0mZA7dAAIaGFzaENvZGVzcgATeHNidGkuYXBpLlNvdXJjZUFQSblep/kpIzikAgACWwALZGVmaW5pdGlvbnN0ABdbTHhzYnRpL2FwaS9EZWZpbml0aW9uO1sACHBhY2thZ2VzdAAUW0x4c2J0aS9hcGkvUGFja2FnZTt4cHVyABdbTHhzYnRpLmFwaS5EZWZpbml0aW9uO4jJXOe0414OAgAAeHAAAAABc3IAE3hzYnRpLmFwaS5DbGFzc0xpa2WDNByh37CXbAIABEwADmRlZmluaXRpb25UeXBldAAaTHhzYnRpL2FwaS9EZWZpbml0aW9uVHlwZTtbABBzYXZlZEFubm90YXRpb25zdAATW0xqYXZhL2xhbmcvU3RyaW5nO0wACHNlbGZUeXBldAAQTHhzYnRpL2FwaS9MYXp5O0wACXN0cnVjdHVyZXEAfgBleHIAIXhzYnRpLmFwaS5QYXJhbWV0ZXJpemVkRGVmaW5pdGlvbvkRbrHVUDziAgABWwAOdHlwZVBhcmFtZXRlcnN0ABpbTHhzYnRpL2FwaS9UeXBlUGFyYW1ldGVyO3hyABR4c2J0aS5hcGkuRGVmaW5pdGlvbocqG+hxQuNGAgAETAAGYWNjZXNzdAASTHhzYnRpL2FwaS9BY2Nlc3M7WwALYW5ub3RhdGlvbnN0ABdbTHhzYnRpL2FwaS9Bbm5vdGF0aW9uO0wACW1vZGlmaWVyc3QAFUx4c2J0aS9hcGkvTW9kaWZpZXJzO0wABG5hbWVxAH4ADXhwc3IAEHhzYnRpLmFwaS5QdWJsaWO6WD2ubC1gQgIAAHhyABB4c2J0aS5hcGkuQWNjZXNz3WKa+B1jMUgCAAB4cHVyABdbTHhzYnRpLmFwaS5Bbm5vdGF0aW9uO+uX6xkQ9o1IAgAAeHAAAAAAc3IAE3hzYnRpLmFwaS5Nb2RpZmllcnOX52HcEyZ7swIAAUIABWZsYWdzeHAAdAAhc2FuZGJveC5Db3ZhcmlhbnRBbmRDb250cmF2YXJpYW50dXIAGltMeHNidGkuYXBpLlR5cGVQYXJhbWV0ZXI72W0mDyid8rYCAAB4cAAAAAB+cgAYeHNidGkuYXBpLkRlZmluaXRpb25UeXBlAAAAAAAAAAASAAB4cgAOamF2YS5sYW5nLkVudW0AAAAAAAAAABIAAHhwdAAGTW9kdWxldXIAE1tMamF2YS5sYW5nLlN0cmluZzut0lbn6R17RwIAAHhwAAAAAHNyACF4c2J0aS5hcGkuQWJzdHJhY3RMYXp5JFN0cmljdExhenkNZhxrKRYquAIAAUwABXZhbHVldAASTGphdmEvbGFuZy9PYmplY3Q7eHBzcgATeHNidGkuYXBpLkVtcHR5VHlwZbz9nkZJO4kkAgAAeHIAFHhzYnRpLmFwaS5TaW1wbGVUeXBlcnhiiCEjv0ACAAB4cgAOeHNidGkuYXBpLlR5cGU/atkhFkmqygIAAHhwc3EAfgB9c3IAE3hzYnRpLmFwaS5TdHJ1Y3R1cmWpqvmAk2/YAAIAA0wACGRlY2xhcmVkcQB+AGVMAAlpbmhlcml0ZWRxAH4AZUwAB3BhcmVudHNxAH4AZXhxAH4AgnNxAH4AfXVxAH4AYAAAAAFzcgANeHNidGkuYXBpLkRlZlK+n+J8tDZpAgACTAAKcmV0dXJuVHlwZXQAEEx4c2J0aS9hcGkvVHlwZTtbAA92YWx1ZVBhcmFtZXRlcnN0ABpbTHhzYnRpL2FwaS9QYXJhbWV0ZXJMaXN0O3hxAH4AZnEAfgBvdXEAfgBwAAAAAHNxAH4AcgBxAH4AK3VxAH4AdQAAAABzcgAUeHNidGkuYXBpLlByb2plY3Rpb27z0o1U6UWkLQIAAkwAAmlkcQB+AA1MAAZwcmVmaXh0ABZMeHNidGkvYXBpL1NpbXBsZVR5cGU7eHEAfgCBdAAEVW5pdHNyABN4c2J0aS5hcGkuU2luZ2xldG9u/Kdf+M9W5EYCAAFMAARwYXRodAAQTHhzYnRpL2FwaS9QYXRoO3hxAH4AgXNyAA54c2J0aS5hcGkuUGF0aJs9XAjOpSeEAgABWwAKY29tcG9uZW50c3QAGltMeHNidGkvYXBpL1BhdGhDb21wb25lbnQ7eHB1cgAaW0x4c2J0aS5hcGkuUGF0aENvbXBvbmVudDtD2gl0LWcWdAIAAHhwAAAAAnNyAAx4c2J0aS5hcGkuSWSYMmyLN1PEQAIAAUwAAmlkcQB+AA14cgAXeHNidGkuYXBpLlBhdGhDb21wb25lbnRfmiJbLoafvAIAAHhwdAAFc2NhbGFzcgAOeHNidGkuYXBpLlRoaXPbCe2mzFpAXAIAAHhxAH4AnXVyABpbTHhzYnRpLmFwaS5QYXJhbWV0ZXJMaXN0O/XTOh3ys3DuAgAAeHAAAAABc3IAF3hzYnRpLmFwaS5QYXJhbWV0ZXJMaXN01sW8HGRJdOMCAAJaAAppc0ltcGxpY2l0WwAKcGFyYW1ldGVyc3QAHFtMeHNidGkvYXBpL01ldGhvZFBhcmFtZXRlcjt4cAB1cgAcW0x4c2J0aS5hcGkuTWV0aG9kUGFyYW1ldGVyO8+4xV2l3bVtAgAAeHAAAAABc3IAGXhzYnRpLmFwaS5NZXRob2RQYXJhbWV0ZXIfRa4X00mw6gIABFoACmhhc0RlZmF1bHRMAAhtb2RpZmllcnQAHUx4c2J0aS9hcGkvUGFyYW1ldGVyTW9kaWZpZXI7TAAEbmFtZXEAfgANTAADdHBlcQB+AIp4cAB+cgAbeHNidGkuYXBpLlBhcmFtZXRlck1vZGlmaWVyAAAAAAAAAAASAAB4cQB+AHh0AAVQbGFpbnQABGFyZ3NzcgAXeHNidGkuYXBpLlBhcmFtZXRlcml6ZWQWbO5pA8m7fwIAAkwACGJhc2VUeXBlcQB+AJFbAA10eXBlQXJndW1lbnRzdAARW0x4c2J0aS9hcGkvVHlwZTt4cQB+AIFzcQB+AJB0AAVBcnJheXEAfgCWdXIAEVtMeHNidGkuYXBpLlR5cGU7dP+lWnv56UECAAB4cAAAAAFzcQB+AJB0AAZTdHJpbmdzcQB+AJRzcQB+AJd1cQB+AJoAAAADc3EAfgCcdAAEamF2YXNxAH4AnHQABGxhbmdxAH4AoXNxAH4AfXVxAH4AYAAAAABzcQB+AH11cQB+ALUAAAACc3EAfgCQdAAGT2JqZWN0cQB+ALlzcQB+AJB0AANBbnlxAH4AlnVyABRbTHhzYnRpLmFwaS5QYWNrYWdlO1sTGTdwpyehAgAAeHAAAAABc3IAEXhzYnRpLmFwaS5QYWNrYWdlflmP9q7OOVgCAAFMAARuYW1lcQB+AA14cHQAB3NhbmRib3hzcgAVeHNidGkuYXBpLkNvbXBpbGF0aW9u7frgw2rooEICAAJKAAlzdGFydFRpbWVbAAdvdXRwdXRzdAAaW0x4c2J0aS9hcGkvT3V0cHV0U2V0dGluZzt4cAAAAWQwwJROdXIAGltMeHNidGkuYXBpLk91dHB1dFNldHRpbmc7f2rC86eHpUICAAB4cAAAAAFzcgAXeHNidGkuYXBpLk91dHB1dFNldHRpbmd62ZpHdPsdewIAAkwAD291dHB1dERpcmVjdG9yeXEAfgANTAAPc291cmNlRGlyZWN0b3J5cQB+AA14cHQAOy9Vc2Vycy9qYXNvbi5raW0vU3R1ZHkvc2NhbGEvY2F0cy90YXJnZXQvc2NhbGEtMi4xMi9jbGFzc2VzdAABL3VyAAJbQqzzF/gGCFTgAgAAeHAAAAAUIGJb4F8pgo2XmrTNOvgxqI4jzvc=
+/Users/jason.kim/Study/scala/cats/src/main/scala/sandbox/Equality.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlSjH5SdlLSkQCAAdJAAdhcGlIYXNoWgAIaGFzTWFjcm9aABBoYXNQYWNrYWdlT2JqZWN0TAAYX2ludGVybmFsT25seV9uYW1lSGFzaGVzdAAkTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoZXM7TAADYXBpdAAVTHhzYnRpL2FwaS9Tb3VyY2VBUEk7TAALY29tcGlsYXRpb250ABdMeHNidGkvYXBpL0NvbXBpbGF0aW9uO1sABGhhc2h0AAJbQnhw8qLMrwAAc3IAInhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoZXNU2r6Z+tTsTAIAAlsAD2ltcGxpY2l0TWVtYmVyc3QAI1tMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2g7WwAOcmVndWxhck1lbWJlcnNxAH4AB3hwdXIAI1tMeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2g7SVqAtt2Wi/QCAAB4cAAAAAB1cQB+AAkAAAAoc3IAIHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoWw71InY4V88CAAJJAARoYXNoTAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hwOvgO4HQABm5vdGlmeXNxAH4ADIuwXlR0AAd1bmFwcGx5c3EAfgAMPOQDeXQAB2N1cnJpZWRzcQB+AAx3wptqdAAEbmFtZXNxAH4ADBLpMJN0AAR3YWl0c3EAfgAMnqva+nQADmNvcHkkZGVmYXVsdCQyc3EAfgAMXYswIXQADSRhc0luc3RhbmNlT2ZzcQB+AAx9g766dAAMcHJvZHVjdEFyaXR5c3EAfgAMNjlOQXQABmVxdWFsc3NxAH4ADBV99Pt0AAxhc0luc3RhbmNlT2ZzcQB+AAxcwQINdAAMc3luY2hyb25pemVkc3EAfgAMtxhqzXQADSRpc0luc3RhbmNlT2ZzcQB+AAzD5C4rdAAGdHVwbGVkc3EAfgAMkr5Op3QACGNhbkVxdWFsc3EAfgAMwoM823QABG1haW5zcQB+AAwuCWYGdAAFY29sb3JzcQB+AAyqp1hqdAANcHJvZHVjdFByZWZpeHNxAH4ADBpwrl10AANhZ2VzcQB+AAytUaV6dAAJbm90aWZ5QWxsc3EAfgAMNGtprHQAA0NhdHNxAH4ADK7A1Nh0AAxpc0luc3RhbmNlT2ZzcQB+AAziWygkdAAGPGluaXQ+c3EAfgAMeuqM3nQABWFwcGx5c3EAfgAMtlD1W3QACEVxdWFsaXR5c3EAfgAMcedcjXQAAj09c3EAfgAMukb7l3QABWNsb25lc3EAfgAMzKk6AHQABiRpbml0JHNxAH4ADKFpu490AA5jb3B5JGRlZmF1bHQkM3NxAH4ADOXa2Pl0AARjb3B5c3EAfgAMC2h+DHQACHRvU3RyaW5nc3EAfgAMPOWGZ3QAAiE9c3EAfgAMSpvfl3QACGdldENsYXNzc3EAfgAMk3s0fnQADmNvcHkkZGVmYXVsdCQxc3EAfgAMKoByP3QAAm5lc3EAfgAMJWSpJXQAAmVxc3EAfgAMMyIFbXQAD3Byb2R1Y3RJdGVyYXRvcnNxAH4ADN9+fhJ0AAIjI3NxAH4ADBNbuOB0AAhmaW5hbGl6ZXNxAH4ADHI6jGd0AA5wcm9kdWN0RWxlbWVudHNxAH4ADJjACE90AAhoYXNoQ29kZXNyABN4c2J0aS5hcGkuU291cmNlQVBJuV6n+SkjOKQCAAJbAAtkZWZpbml0aW9uc3QAF1tMeHNidGkvYXBpL0RlZmluaXRpb247WwAIcGFja2FnZXN0ABRbTHhzYnRpL2FwaS9QYWNrYWdlO3hwdXIAF1tMeHNidGkuYXBpLkRlZmluaXRpb247iMlc57TjXg4CAAB4cAAAAAFzcgATeHNidGkuYXBpLkNsYXNzTGlrZYM0HKHfsJdsAgAETAAOZGVmaW5pdGlvblR5cGV0ABpMeHNidGkvYXBpL0RlZmluaXRpb25UeXBlO1sAEHNhdmVkQW5ub3RhdGlvbnN0ABNbTGphdmEvbGFuZy9TdHJpbmc7TAAIc2VsZlR5cGV0ABBMeHNidGkvYXBpL0xhenk7TAAJc3RydWN0dXJlcQB+AGd4cgAheHNidGkuYXBpLlBhcmFtZXRlcml6ZWREZWZpbml0aW9u+RFusdVQPOICAAFbAA50eXBlUGFyYW1ldGVyc3QAGltMeHNidGkvYXBpL1R5cGVQYXJhbWV0ZXI7eHIAFHhzYnRpLmFwaS5EZWZpbml0aW9uhyob6HFC40YCAARMAAZhY2Nlc3N0ABJMeHNidGkvYXBpL0FjY2VzcztbAAthbm5vdGF0aW9uc3QAF1tMeHNidGkvYXBpL0Fubm90YXRpb247TAAJbW9kaWZpZXJzdAAVTHhzYnRpL2FwaS9Nb2RpZmllcnM7TAAEbmFtZXEAfgANeHBzcgAQeHNidGkuYXBpLlB1YmxpY7pYPa5sLWBCAgAAeHIAEHhzYnRpLmFwaS5BY2Nlc3PdYpr4HWMxSAIAAHhwdXIAF1tMeHNidGkuYXBpLkFubm90YXRpb24765frGRD2jUgCAAB4cAAAAABzcgATeHNidGkuYXBpLk1vZGlmaWVyc5fnYdwTJnuzAgABQgAFZmxhZ3N4cAB0ABBzYW5kYm94LkVxdWFsaXR5dXIAGltMeHNidGkuYXBpLlR5cGVQYXJhbWV0ZXI72W0mDyid8rYCAAB4cAAAAAB+cgAYeHNidGkuYXBpLkRlZmluaXRpb25UeXBlAAAAAAAAAAASAAB4cgAOamF2YS5sYW5nLkVudW0AAAAAAAAAABIAAHhwdAAGTW9kdWxldXIAE1tMamF2YS5sYW5nLlN0cmluZzut0lbn6R17RwIAAHhwAAAAAHNyACF4c2J0aS5hcGkuQWJzdHJhY3RMYXp5JFN0cmljdExhenkNZhxrKRYquAIAAUwABXZhbHVldAASTGphdmEvbGFuZy9PYmplY3Q7eHBzcgATeHNidGkuYXBpLkVtcHR5VHlwZbz9nkZJO4kkAgAAeHIAFHhzYnRpLmFwaS5TaW1wbGVUeXBlcnhiiCEjv0ACAAB4cgAOeHNidGkuYXBpLlR5cGU/atkhFkmqygIAAHhwc3EAfgB/c3IAE3hzYnRpLmFwaS5TdHJ1Y3R1cmWpqvmAk2/YAAIAA0wACGRlY2xhcmVkcQB+AGdMAAlpbmhlcml0ZWRxAH4AZ0wAB3BhcmVudHNxAH4AZ3hxAH4AhHNxAH4Af3VxAH4AYgAAAAFzcgANeHNidGkuYXBpLkRlZlK+n+J8tDZpAgACTAAKcmV0dXJuVHlwZXQAEEx4c2J0aS9hcGkvVHlwZTtbAA92YWx1ZVBhcmFtZXRlcnN0ABpbTHhzYnRpL2FwaS9QYXJhbWV0ZXJMaXN0O3hxAH4AaHEAfgBxdXEAfgByAAAAAHNxAH4AdABxAH4AK3VxAH4AdwAAAABzcgAUeHNidGkuYXBpLlByb2plY3Rpb27z0o1U6UWkLQIAAkwAAmlkcQB+AA1MAAZwcmVmaXh0ABZMeHNidGkvYXBpL1NpbXBsZVR5cGU7eHEAfgCDdAAEVW5pdHNyABN4c2J0aS5hcGkuU2luZ2xldG9u/Kdf+M9W5EYCAAFMAARwYXRodAAQTHhzYnRpL2FwaS9QYXRoO3hxAH4Ag3NyAA54c2J0aS5hcGkuUGF0aJs9XAjOpSeEAgABWwAKY29tcG9uZW50c3QAGltMeHNidGkvYXBpL1BhdGhDb21wb25lbnQ7eHB1cgAaW0x4c2J0aS5hcGkuUGF0aENvbXBvbmVudDtD2gl0LWcWdAIAAHhwAAAAAnNyAAx4c2J0aS5hcGkuSWSYMmyLN1PEQAIAAUwAAmlkcQB+AA14cgAXeHNidGkuYXBpLlBhdGhDb21wb25lbnRfmiJbLoafvAIAAHhwdAAFc2NhbGFzcgAOeHNidGkuYXBpLlRoaXPbCe2mzFpAXAIAAHhxAH4An3VyABpbTHhzYnRpLmFwaS5QYXJhbWV0ZXJMaXN0O/XTOh3ys3DuAgAAeHAAAAABc3IAF3hzYnRpLmFwaS5QYXJhbWV0ZXJMaXN01sW8HGRJdOMCAAJaAAppc0ltcGxpY2l0WwAKcGFyYW1ldGVyc3QAHFtMeHNidGkvYXBpL01ldGhvZFBhcmFtZXRlcjt4cAB1cgAcW0x4c2J0aS5hcGkuTWV0aG9kUGFyYW1ldGVyO8+4xV2l3bVtAgAAeHAAAAABc3IAGXhzYnRpLmFwaS5NZXRob2RQYXJhbWV0ZXIfRa4X00mw6gIABFoACmhhc0RlZmF1bHRMAAhtb2RpZmllcnQAHUx4c2J0aS9hcGkvUGFyYW1ldGVyTW9kaWZpZXI7TAAEbmFtZXEAfgANTAADdHBlcQB+AIx4cAB+cgAbeHNidGkuYXBpLlBhcmFtZXRlck1vZGlmaWVyAAAAAAAAAAASAAB4cQB+AHp0AAVQbGFpbnQABGFyZ3NzcgAXeHNidGkuYXBpLlBhcmFtZXRlcml6ZWQWbO5pA8m7fwIAAkwACGJhc2VUeXBlcQB+AJNbAA10eXBlQXJndW1lbnRzdAARW0x4c2J0aS9hcGkvVHlwZTt4cQB+AINzcQB+AJJ0AAVBcnJheXEAfgCYdXIAEVtMeHNidGkuYXBpLlR5cGU7dP+lWnv56UECAAB4cAAAAAFzcQB+AJJ0AAZTdHJpbmdzcQB+AJZzcQB+AJl1cQB+AJwAAAADc3EAfgCedAAEamF2YXNxAH4AnnQABGxhbmdxAH4Ao3NxAH4Af3VxAH4AYgAAAABzcQB+AH91cQB+ALcAAAACc3EAfgCSdAAGT2JqZWN0cQB+ALtzcQB+AJJ0AANBbnlxAH4AmHVyABRbTHhzYnRpLmFwaS5QYWNrYWdlO1sTGTdwpyehAgAAeHAAAAABc3IAEXhzYnRpLmFwaS5QYWNrYWdlflmP9q7OOVgCAAFMAARuYW1lcQB+AA14cHQAB3NhbmRib3hzcgAVeHNidGkuYXBpLkNvbXBpbGF0aW9u7frgw2rooEICAAJKAAlzdGFydFRpbWVbAAdvdXRwdXRzdAAaW0x4c2J0aS9hcGkvT3V0cHV0U2V0dGluZzt4cAAAAWQwwJROdXIAGltMeHNidGkuYXBpLk91dHB1dFNldHRpbmc7f2rC86eHpUICAAB4cAAAAAFzcgAXeHNidGkuYXBpLk91dHB1dFNldHRpbmd62ZpHdPsdewIAAkwAD291dHB1dERpcmVjdG9yeXEAfgANTAAPc291cmNlRGlyZWN0b3J5cQB+AA14cHQAOy9Vc2Vycy9qYXNvbi5raW0vU3R1ZHkvc2NhbGEvY2F0cy90YXJnZXQvc2NhbGEtMi4xMi9jbGFzc2VzdAABL3VyAAJbQqzzF/gGCFTgAgAAeHAAAAAU7MnOIwiAM7gpFbszQ6LGLIg3X1s=
+/Users/jason.kim/Study/scala/cats/src/main/scala/sandbox/FunctorTest.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlSjH5SdlLSkQCAAdJAAdhcGlIYXNoWgAIaGFzTWFjcm9aABBoYXNQYWNrYWdlT2JqZWN0TAAYX2ludGVybmFsT25seV9uYW1lSGFzaGVzdAAkTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoZXM7TAADYXBpdAAVTHhzYnRpL2FwaS9Tb3VyY2VBUEk7TAALY29tcGlsYXRpb250ABdMeHNidGkvYXBpL0NvbXBpbGF0aW9uO1sABGhhc2h0AAJbQnhwPKd+2AAAc3IAInhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoZXNU2r6Z+tTsTAIAAlsAD2ltcGxpY2l0TWVtYmVyc3QAI1tMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2g7WwAOcmVndWxhck1lbWJlcnNxAH4AB3hwdXIAI1tMeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2g7SVqAtt2Wi/QCAAB4cAAAAAB1cQB+AAkAAAAWc3IAIHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoWw71InY4V88CAAJJAARoYXNoTAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hwr89IXnQABm5vdGlmeXNxAH4ADCuzlYV0AAR3YWl0c3EAfgAM3mzuz3QADSRhc0luc3RhbmNlT2ZzcQB+AAy+qgY8dAAGZXF1YWxzc3EAfgAM0W4XyHQADGFzSW5zdGFuY2VPZnNxAH4ADMdikp10AAxzeW5jaHJvbml6ZWRzcQB+AAxVLnWadAANJGlzSW5zdGFuY2VPZnNxAH4ADGkOULh0AAlub3RpZnlBbGxzcQB+AAylphuDdAAMaXNJbnN0YW5jZU9mc3EAfgAMROWzWnQABjxpbml0PnNxAH4ADGhAqs10AAI9PXNxAH4ADPsbvrd0AAtGdW5jdG9yVGVzdHNxAH4ADHBAb+B0AAVjbG9uZXNxAH4ADCId4YJ0AARmdW5jc3EAfgAM4okGp3QACHRvU3RyaW5nc3EAfgAM1skuoXQAAiE9c3EAfgAMFyohQHQACGdldENsYXNzc3EAfgAM/QBGQnQAAm5lc3EAfgAMtow6L3QAAmVxc3EAfgAMLXTaWnQAAiMjc3EAfgAMp8wJm3QACGZpbmFsaXplc3EAfgAM+VqzO3QACGhhc2hDb2Rlc3IAE3hzYnRpLmFwaS5Tb3VyY2VBUEm5Xqf5KSM4pAIAAlsAC2RlZmluaXRpb25zdAAXW0x4c2J0aS9hcGkvRGVmaW5pdGlvbjtbAAhwYWNrYWdlc3QAFFtMeHNidGkvYXBpL1BhY2thZ2U7eHB1cgAXW0x4c2J0aS5hcGkuRGVmaW5pdGlvbjuIyVzntONeDgIAAHhwAAAAAXNyABN4c2J0aS5hcGkuQ2xhc3NMaWtlgzQcod+wl2wCAARMAA5kZWZpbml0aW9uVHlwZXQAGkx4c2J0aS9hcGkvRGVmaW5pdGlvblR5cGU7WwAQc2F2ZWRBbm5vdGF0aW9uc3QAE1tMamF2YS9sYW5nL1N0cmluZztMAAhzZWxmVHlwZXQAEEx4c2J0aS9hcGkvTGF6eTtMAAlzdHJ1Y3R1cmVxAH4AQ3hyACF4c2J0aS5hcGkuUGFyYW1ldGVyaXplZERlZmluaXRpb275EW6x1VA84gIAAVsADnR5cGVQYXJhbWV0ZXJzdAAaW0x4c2J0aS9hcGkvVHlwZVBhcmFtZXRlcjt4cgAUeHNidGkuYXBpLkRlZmluaXRpb26HKhvocULjRgIABEwABmFjY2Vzc3QAEkx4c2J0aS9hcGkvQWNjZXNzO1sAC2Fubm90YXRpb25zdAAXW0x4c2J0aS9hcGkvQW5ub3RhdGlvbjtMAAltb2RpZmllcnN0ABVMeHNidGkvYXBpL01vZGlmaWVycztMAARuYW1lcQB+AA14cHNyABB4c2J0aS5hcGkuUHVibGljulg9rmwtYEICAAB4cgAQeHNidGkuYXBpLkFjY2Vzc91imvgdYzFIAgAAeHB1cgAXW0x4c2J0aS5hcGkuQW5ub3RhdGlvbjvrl+sZEPaNSAIAAHhwAAAAAHNyABN4c2J0aS5hcGkuTW9kaWZpZXJzl+dh3BMme7MCAAFCAAVmbGFnc3hwAHQAE3NhbmRib3guRnVuY3RvclRlc3R1cgAaW0x4c2J0aS5hcGkuVHlwZVBhcmFtZXRlcjvZbSYPKJ3ytgIAAHhwAAAAAH5yABh4c2J0aS5hcGkuRGVmaW5pdGlvblR5cGUAAAAAAAAAABIAAHhyAA5qYXZhLmxhbmcuRW51bQAAAAAAAAAAEgAAeHB0AAhDbGFzc0RlZnVyABNbTGphdmEubGFuZy5TdHJpbmc7rdJW5+kde0cCAAB4cAAAAABzcgAheHNidGkuYXBpLkFic3RyYWN0TGF6eSRTdHJpY3RMYXp5DWYcaykWKrgCAAFMAAV2YWx1ZXQAEkxqYXZhL2xhbmcvT2JqZWN0O3hwc3IAE3hzYnRpLmFwaS5FbXB0eVR5cGW8/Z5GSTuJJAIAAHhyABR4c2J0aS5hcGkuU2ltcGxlVHlwZXJ4YoghI79AAgAAeHIADnhzYnRpLmFwaS5UeXBlP2rZIRZJqsoCAAB4cHNxAH4AW3NyABN4c2J0aS5hcGkuU3RydWN0dXJlqar5gJNv2AACAANMAAhkZWNsYXJlZHEAfgBDTAAJaW5oZXJpdGVkcQB+AENMAAdwYXJlbnRzcQB+AEN4cQB+AGBzcQB+AFt1cQB+AD4AAAAAc3EAfgBbdXEAfgA+AAAAAHNxAH4AW3VyABFbTHhzYnRpLmFwaS5UeXBlO3T/pVp7+elBAgAAeHAAAAACc3IAFHhzYnRpLmFwaS5Qcm9qZWN0aW9u89KNVOlFpC0CAAJMAAJpZHEAfgANTAAGcHJlZml4dAAWTHhzYnRpL2FwaS9TaW1wbGVUeXBlO3hxAH4AX3QABk9iamVjdHNyABN4c2J0aS5hcGkuU2luZ2xldG9u/Kdf+M9W5EYCAAFMAARwYXRodAAQTHhzYnRpL2FwaS9QYXRoO3hxAH4AX3NyAA54c2J0aS5hcGkuUGF0aJs9XAjOpSeEAgABWwAKY29tcG9uZW50c3QAGltMeHNidGkvYXBpL1BhdGhDb21wb25lbnQ7eHB1cgAaW0x4c2J0aS5hcGkuUGF0aENvbXBvbmVudDtD2gl0LWcWdAIAAHhwAAAAA3NyAAx4c2J0aS5hcGkuSWSYMmyLN1PEQAIAAUwAAmlkcQB+AA14cgAXeHNidGkuYXBpLlBhdGhDb21wb25lbnRfmiJbLoafvAIAAHhwdAAEamF2YXNxAH4AeHQABGxhbmdzcgAOeHNidGkuYXBpLlRoaXPbCe2mzFpAXAIAAHhxAH4AeXNxAH4AbHQAA0FueXNxAH4AcHNxAH4Ac3VxAH4AdgAAAAJzcQB+AHh0AAVzY2FsYXEAfgB/dXIAFFtMeHNidGkuYXBpLlBhY2thZ2U7WxMZN3CnJ6ECAAB4cAAAAAFzcgAReHNidGkuYXBpLlBhY2thZ2V+WY/2rs45WAIAAUwABG5hbWVxAH4ADXhwdAAHc2FuZGJveHNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABZDDAlE51cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5cQB+AA1MAA9zb3VyY2VEaXJlY3RvcnlxAH4ADXhwdAA7L1VzZXJzL2phc29uLmtpbS9TdHVkeS9zY2FsYS9jYXRzL3RhcmdldC9zY2FsYS0yLjEyL2NsYXNzZXN0AAEvdXIAAltCrPMX+AYIVOACAAB4cAAAABR0MQhTPM4QAjJMfH1e8PEYcTNCLg==
+/Users/jason.kim/Study/scala/cats/src/main/scala/sandbox/Main.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlSjH5SdlLSkQCAAdJAAdhcGlIYXNoWgAIaGFzTWFjcm9aABBoYXNQYWNrYWdlT2JqZWN0TAAYX2ludGVybmFsT25seV9uYW1lSGFzaGVzdAAkTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoZXM7TAADYXBpdAAVTHhzYnRpL2FwaS9Tb3VyY2VBUEk7TAALY29tcGlsYXRpb250ABdMeHNidGkvYXBpL0NvbXBpbGF0aW9uO1sABGhhc2h0AAJbQnhwqbe1zgAAc3IAInhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoZXNU2r6Z+tTsTAIAAlsAD2ltcGxpY2l0TWVtYmVyc3QAI1tMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2g7WwAOcmVndWxhck1lbWJlcnNxAH4AB3hwdXIAI1tMeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2g7SVqAtt2Wi/QCAAB4cAAAAAB1cQB+AAkAAAAZc3IAIHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoWw71InY4V88CAAJJAARoYXNoTAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hwZf3d+HQABm5vdGlmeXNxAH4ADOJrw010AAR3YWl0c3EAfgAM6l1qWnQADSRhc0luc3RhbmNlT2ZzcQB+AAzHQ1BedAAGZXF1YWxzc3EAfgAMlL+B1HQADGFzSW5zdGFuY2VPZnNxAH4ADNws9ON0AA5leGVjdXRpb25TdGFydHNxAH4ADFRJ9390AAxzeW5jaHJvbml6ZWRzcQB+AAx+UiRidAANJGlzSW5zdGFuY2VPZnNxAH4ADMkmPOR0AARtYWluc3EAfgAMZ+QK73QACW5vdGlmeUFsbHNxAH4ADDXEbPl0AAxpc0luc3RhbmNlT2ZzcQB+AAwEdeSDdAACPT1zcQB+AAxke/TddAAFY2xvbmVzcQB+AAxuOTcadAAGJGluaXQkc3EAfgAM5IfExXQABE1haW5zcQB+AAxBQ3LCdAAIdG9TdHJpbmdzcQB+AAwZaW4cdAAEYXJnc3NxAH4ADLnOcZ50AAIhPXNxAH4ADCXDxnh0AAhnZXRDbGFzc3NxAH4ADOFxVsR0AAJuZXNxAH4ADKLvUv90AAJlcXNxAH4ADCVA5oh0AAtkZWxheWVkSW5pdHNxAH4ADPdFiGx0AAIjI3NxAH4ADGBkdUd0AAhmaW5hbGl6ZXNxAH4ADDM+bPR0AAhoYXNoQ29kZXNyABN4c2J0aS5hcGkuU291cmNlQVBJuV6n+SkjOKQCAAJbAAtkZWZpbml0aW9uc3QAF1tMeHNidGkvYXBpL0RlZmluaXRpb247WwAIcGFja2FnZXN0ABRbTHhzYnRpL2FwaS9QYWNrYWdlO3hwdXIAF1tMeHNidGkuYXBpLkRlZmluaXRpb247iMlc57TjXg4CAAB4cAAAAAFzcgATeHNidGkuYXBpLkNsYXNzTGlrZYM0HKHfsJdsAgAETAAOZGVmaW5pdGlvblR5cGV0ABpMeHNidGkvYXBpL0RlZmluaXRpb25UeXBlO1sAEHNhdmVkQW5ub3RhdGlvbnN0ABNbTGphdmEvbGFuZy9TdHJpbmc7TAAIc2VsZlR5cGV0ABBMeHNidGkvYXBpL0xhenk7TAAJc3RydWN0dXJlcQB+AEl4cgAheHNidGkuYXBpLlBhcmFtZXRlcml6ZWREZWZpbml0aW9u+RFusdVQPOICAAFbAA50eXBlUGFyYW1ldGVyc3QAGltMeHNidGkvYXBpL1R5cGVQYXJhbWV0ZXI7eHIAFHhzYnRpLmFwaS5EZWZpbml0aW9uhyob6HFC40YCAARMAAZhY2Nlc3N0ABJMeHNidGkvYXBpL0FjY2VzcztbAAthbm5vdGF0aW9uc3QAF1tMeHNidGkvYXBpL0Fubm90YXRpb247TAAJbW9kaWZpZXJzdAAVTHhzYnRpL2FwaS9Nb2RpZmllcnM7TAAEbmFtZXEAfgANeHBzcgAQeHNidGkuYXBpLlB1YmxpY7pYPa5sLWBCAgAAeHIAEHhzYnRpLmFwaS5BY2Nlc3PdYpr4HWMxSAIAAHhwdXIAF1tMeHNidGkuYXBpLkFubm90YXRpb24765frGRD2jUgCAAB4cAAAAABzcgATeHNidGkuYXBpLk1vZGlmaWVyc5fnYdwTJnuzAgABQgAFZmxhZ3N4cAB0AAxzYW5kYm94Lk1haW51cgAaW0x4c2J0aS5hcGkuVHlwZVBhcmFtZXRlcjvZbSYPKJ3ytgIAAHhwAAAAAH5yABh4c2J0aS5hcGkuRGVmaW5pdGlvblR5cGUAAAAAAAAAABIAAHhyAA5qYXZhLmxhbmcuRW51bQAAAAAAAAAAEgAAeHB0AAZNb2R1bGV1cgATW0xqYXZhLmxhbmcuU3RyaW5nO63SVufpHXtHAgAAeHAAAAACdAAac2NhbGEuZGVwcmVjYXRlZE92ZXJyaWRpbmd0ABBzY2FsYS5kZXByZWNhdGVkc3IAIXhzYnRpLmFwaS5BYnN0cmFjdExhenkkU3RyaWN0TGF6eQ1mHGspFiq4AgABTAAFdmFsdWV0ABJMamF2YS9sYW5nL09iamVjdDt4cHNyABN4c2J0aS5hcGkuRW1wdHlUeXBlvP2eRkk7iSQCAAB4cgAUeHNidGkuYXBpLlNpbXBsZVR5cGVyeGKIISO/QAIAAHhyAA54c2J0aS5hcGkuVHlwZT9q2SEWSarKAgAAeHBzcQB+AGNzcgATeHNidGkuYXBpLlN0cnVjdHVyZamq+YCTb9gAAgADTAAIZGVjbGFyZWRxAH4ASUwACWluaGVyaXRlZHEAfgBJTAAHcGFyZW50c3EAfgBJeHEAfgBoc3EAfgBjdXEAfgBEAAAAAHNxAH4AY3VxAH4ARAAAAAFzcgANeHNidGkuYXBpLkRlZlK+n+J8tDZpAgACTAAKcmV0dXJuVHlwZXQAEEx4c2J0aS9hcGkvVHlwZTtbAA92YWx1ZVBhcmFtZXRlcnN0ABpbTHhzYnRpL2FwaS9QYXJhbWV0ZXJMaXN0O3hxAH4ASnEAfgBTdXEAfgBUAAAAAXNyABR4c2J0aS5hcGkuQW5ub3RhdGlvbt4OgaL2XAqyAgACWwAJYXJndW1lbnRzdAAfW0x4c2J0aS9hcGkvQW5ub3RhdGlvbkFyZ3VtZW50O0wABGJhc2VxAH4AcnhwdXIAH1tMeHNidGkuYXBpLkFubm90YXRpb25Bcmd1bWVudDtRnaaPOCUPeAIAAHhwAAAAAXNyABx4c2J0aS5hcGkuQW5ub3RhdGlvbkFyZ3VtZW501kWx2AMbF3wCAAJMAARuYW1lcQB+AA1MAAV2YWx1ZXEAfgANeHB0AAB0ACooIm1haW4gc2hvdWxkIG5vdCBiZSBvdmVycmlkZGVuIiwiMi4xMS4wIilzcgAUeHNidGkuYXBpLlByb2plY3Rpb27z0o1U6UWkLQIAAkwAAmlkcQB+AA1MAAZwcmVmaXh0ABZMeHNidGkvYXBpL1NpbXBsZVR5cGU7eHEAfgBndAAUZGVwcmVjYXRlZE92ZXJyaWRpbmdzcgATeHNidGkuYXBpLlNpbmdsZXRvbvynX/jPVuRGAgABTAAEcGF0aHQAEEx4c2J0aS9hcGkvUGF0aDt4cQB+AGdzcgAOeHNidGkuYXBpLlBhdGibPVwIzqUnhAIAAVsACmNvbXBvbmVudHN0ABpbTHhzYnRpL2FwaS9QYXRoQ29tcG9uZW50O3hwdXIAGltMeHNidGkuYXBpLlBhdGhDb21wb25lbnQ7Q9oJdC1nFnQCAAB4cAAAAAJzcgAMeHNidGkuYXBpLklkmDJsizdTxEACAAFMAAJpZHEAfgANeHIAF3hzYnRpLmFwaS5QYXRoQ29tcG9uZW50X5oiWy6Gn7wCAAB4cHQABXNjYWxhc3IADnhzYnRpLmFwaS5UaGlz2wntpsxaQFwCAAB4cQB+AIxzcQB+AFYAcQB+AB91cQB+AFkAAAAAc3EAfgB/dAAEVW5pdHEAfgCFdXIAGltMeHNidGkuYXBpLlBhcmFtZXRlckxpc3Q79dM6HfKzcO4CAAB4cAAAAAFzcgAXeHNidGkuYXBpLlBhcmFtZXRlckxpc3TWxbwcZEl04wIAAloACmlzSW1wbGljaXRbAApwYXJhbWV0ZXJzdAAcW0x4c2J0aS9hcGkvTWV0aG9kUGFyYW1ldGVyO3hwAHVyABxbTHhzYnRpLmFwaS5NZXRob2RQYXJhbWV0ZXI7z7jFXaXdtW0CAAB4cAAAAAFzcgAZeHNidGkuYXBpLk1ldGhvZFBhcmFtZXRlch9FrhfTSbDqAgAEWgAKaGFzRGVmYXVsdEwACG1vZGlmaWVydAAdTHhzYnRpL2FwaS9QYXJhbWV0ZXJNb2RpZmllcjtMAARuYW1lcQB+AA1MAAN0cGVxAH4AcnhwAH5yABt4c2J0aS5hcGkuUGFyYW1ldGVyTW9kaWZpZXIAAAAAAAAAABIAAHhxAH4AXHQABVBsYWlucQB+AC9zcgAXeHNidGkuYXBpLlBhcmFtZXRlcml6ZWQWbO5pA8m7fwIAAkwACGJhc2VUeXBlcQB+AIBbAA10eXBlQXJndW1lbnRzdAARW0x4c2J0aS9hcGkvVHlwZTt4cQB+AGdzcQB+AH90AAVBcnJheXEAfgCFdXIAEVtMeHNidGkuYXBpLlR5cGU7dP+lWnv56UECAAB4cAAAAAFzcQB+AH90AAZTdHJpbmdzcQB+AINzcQB+AIZ1cQB+AIkAAAADc3EAfgCLdAAEamF2YXNxAH4Ai3QABGxhbmdxAH4AkHNxAH4AY3VxAH4ApwAAAARzcQB+AH90AANBcHBxAH4AhXNxAH4Af3QAC0RlbGF5ZWRJbml0cQB+AIVzcQB+AH90AAZPYmplY3RxAH4Aq3NxAH4Af3QAA0FueXEAfgCFdXIAFFtMeHNidGkuYXBpLlBhY2thZ2U7WxMZN3CnJ6ECAAB4cAAAAAFzcgAReHNidGkuYXBpLlBhY2thZ2V+WY/2rs45WAIAAUwABG5hbWVxAH4ADXhwdAAHc2FuZGJveHNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABZDDAlE51cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5cQB+AA1MAA9zb3VyY2VEaXJlY3RvcnlxAH4ADXhwdAA7L1VzZXJzL2phc29uLmtpbS9TdHVkeS9zY2FsYS9jYXRzL3RhcmdldC9zY2FsYS0yLjEyL2NsYXNzZXN0AAEvdXIAAltCrPMX+AYIVOACAAB4cAAAABTGCpEGUkSQmnTGZvGWSdfgIbZz3g==
+/Users/jason.kim/Study/scala/cats/src/main/scala/sandbox/MonoidTest.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlSjH5SdlLSkQCAAdJAAdhcGlIYXNoWgAIaGFzTWFjcm9aABBoYXNQYWNrYWdlT2JqZWN0TAAYX2ludGVybmFsT25seV9uYW1lSGFzaGVzdAAkTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoZXM7TAADYXBpdAAVTHhzYnRpL2FwaS9Tb3VyY2VBUEk7TAALY29tcGlsYXRpb250ABdMeHNidGkvYXBpL0NvbXBpbGF0aW9uO1sABGhhc2h0AAJbQnhwsMaVuQAAc3IAInhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoZXNU2r6Z+tTsTAIAAlsAD2ltcGxpY2l0TWVtYmVyc3QAI1tMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2g7WwAOcmVndWxhck1lbWJlcnNxAH4AB3hwdXIAI1tMeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2g7SVqAtt2Wi/QCAAB4cAAAAAJzcgAgeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2hbDvUidjhXzwIAAkkABGhhc2hMAARuYW1ldAASTGphdmEvbGFuZy9TdHJpbmc7eHDyk2jkdAAYc2V0SW50ZXJzZWN0aW9uU2VtaWdyb3Vwc3EAfgALeym0SHQADXN5bURpZmZNb25vaWR1cQB+AAkAAAAac3EAfgALv47yS3QABk1vbm9pZHNxAH4AC9h2KsJ0AAZub3RpZnlzcQB+AAt6TNQZdAAEd2FpdHNxAH4ACxEUUmN0AA0kYXNJbnN0YW5jZU9mc3EAfgAL72CP0HQABWVtcHR5c3EAfgALqkogAnQABmVxdWFsc3NxAH4AC9Svjbp0AAxhc0luc3RhbmNlT2ZzcQB+AAvaHPZydAAMc3luY2hyb25pemVkc3EAfgAL6eZNL3QADSRpc0luc3RhbmNlT2ZzcQB+AAs6vmggdAAEbWFpbnNxAH4AC3/c9y90AAlub3RpZnlBbGxzcQB+AAttS1x5dAAMaXNJbnN0YW5jZU9mc3EAfgALmFDCj3QACVNlbWlncm91cHNxAH4AC2v1a4R0AAVhcHBseXNxAH4ACwMFdHB0AAI9PXNxAH4AC2jfINF0AAVjbG9uZXNxAH4AC8blv8J0AApNb25vaWRUZXN0c3EAfgAL144MwHQAB2NvbWJpbmVzcQB+AAsBvlNIdAAIdG9TdHJpbmdzcQB+AAsfYhxrdAACIT1zcQB+AAsgGfSudAAIZ2V0Q2xhc3NzcQB+AAtob5DUdAACbmVzcQB+AAugh9pGdAACZXFzcQB+AAuA1czZdAACIyNzcQB+AAsvqRSddAAIZmluYWxpemVzcQB+AAt54SwBdAAIaGFzaENvZGVzcgATeHNidGkuYXBpLlNvdXJjZUFQSblep/kpIzikAgACWwALZGVmaW5pdGlvbnN0ABdbTHhzYnRpL2FwaS9EZWZpbml0aW9uO1sACHBhY2thZ2VzdAAUW0x4c2J0aS9hcGkvUGFja2FnZTt4cHVyABdbTHhzYnRpLmFwaS5EZWZpbml0aW9uO4jJXOe0414OAgAAeHAAAAAFc3IAE3hzYnRpLmFwaS5DbGFzc0xpa2WDNByh37CXbAIABEwADmRlZmluaXRpb25UeXBldAAaTHhzYnRpL2FwaS9EZWZpbml0aW9uVHlwZTtbABBzYXZlZEFubm90YXRpb25zdAATW0xqYXZhL2xhbmcvU3RyaW5nO0wACHNlbGZUeXBldAAQTHhzYnRpL2FwaS9MYXp5O0wACXN0cnVjdHVyZXEAfgBPeHIAIXhzYnRpLmFwaS5QYXJhbWV0ZXJpemVkRGVmaW5pdGlvbvkRbrHVUDziAgABWwAOdHlwZVBhcmFtZXRlcnN0ABpbTHhzYnRpL2FwaS9UeXBlUGFyYW1ldGVyO3hyABR4c2J0aS5hcGkuRGVmaW5pdGlvbocqG+hxQuNGAgAETAAGYWNjZXNzdAASTHhzYnRpL2FwaS9BY2Nlc3M7WwALYW5ub3RhdGlvbnN0ABdbTHhzYnRpL2FwaS9Bbm5vdGF0aW9uO0wACW1vZGlmaWVyc3QAFUx4c2J0aS9hcGkvTW9kaWZpZXJzO0wABG5hbWVxAH4ADHhwc3IAEHhzYnRpLmFwaS5QdWJsaWO6WD2ubC1gQgIAAHhyABB4c2J0aS5hcGkuQWNjZXNz3WKa+B1jMUgCAAB4cHVyABdbTHhzYnRpLmFwaS5Bbm5vdGF0aW9uO+uX6xkQ9o1IAgAAeHAAAAAAc3IAE3hzYnRpLmFwaS5Nb2RpZmllcnOX52HcEyZ7swIAAUIABWZsYWdzeHAAdAASc2FuZGJveC5Nb25vaWRUZXN0dXIAGltMeHNidGkuYXBpLlR5cGVQYXJhbWV0ZXI72W0mDyid8rYCAAB4cAAAAAB+cgAYeHNidGkuYXBpLkRlZmluaXRpb25UeXBlAAAAAAAAAAASAAB4cgAOamF2YS5sYW5nLkVudW0AAAAAAAAAABIAAHhwdAAGTW9kdWxldXIAE1tMamF2YS5sYW5nLlN0cmluZzut0lbn6R17RwIAAHhwAAAAAHNyACF4c2J0aS5hcGkuQWJzdHJhY3RMYXp5JFN0cmljdExhenkNZhxrKRYquAIAAUwABXZhbHVldAASTGphdmEvbGFuZy9PYmplY3Q7eHBzcgATeHNidGkuYXBpLkVtcHR5VHlwZbz9nkZJO4kkAgAAeHIAFHhzYnRpLmFwaS5TaW1wbGVUeXBlcnhiiCEjv0ACAAB4cgAOeHNidGkuYXBpLlR5cGU/atkhFkmqygIAAHhwc3EAfgBnc3IAE3hzYnRpLmFwaS5TdHJ1Y3R1cmWpqvmAk2/YAAIAA0wACGRlY2xhcmVkcQB+AE9MAAlpbmhlcml0ZWRxAH4AT0wAB3BhcmVudHNxAH4AT3hxAH4AbHNxAH4AZ3VxAH4ASgAAAAFzcgANeHNidGkuYXBpLkRlZlK+n+J8tDZpAgACTAAKcmV0dXJuVHlwZXQAEEx4c2J0aS9hcGkvVHlwZTtbAA92YWx1ZVBhcmFtZXRlcnN0ABpbTHhzYnRpL2FwaS9QYXJhbWV0ZXJMaXN0O3hxAH4AUHEAfgBZdXEAfgBaAAAAAHNxAH4AXABxAH4AJXVxAH4AXwAAAABzcgAUeHNidGkuYXBpLlByb2plY3Rpb27z0o1U6UWkLQIAAkwAAmlkcQB+AAxMAAZwcmVmaXh0ABZMeHNidGkvYXBpL1NpbXBsZVR5cGU7eHEAfgBrdAAEVW5pdHNyABN4c2J0aS5hcGkuU2luZ2xldG9u/Kdf+M9W5EYCAAFMAARwYXRodAAQTHhzYnRpL2FwaS9QYXRoO3hxAH4Aa3NyAA54c2J0aS5hcGkuUGF0aJs9XAjOpSeEAgABWwAKY29tcG9uZW50c3QAGltMeHNidGkvYXBpL1BhdGhDb21wb25lbnQ7eHB1cgAaW0x4c2J0aS5hcGkuUGF0aENvbXBvbmVudDtD2gl0LWcWdAIAAHhwAAAAAnNyAAx4c2J0aS5hcGkuSWSYMmyLN1PEQAIAAUwAAmlkcQB+AAx4cgAXeHNidGkuYXBpLlBhdGhDb21wb25lbnRfmiJbLoafvAIAAHhwdAAFc2NhbGFzcgAOeHNidGkuYXBpLlRoaXPbCe2mzFpAXAIAAHhxAH4Ah3VyABpbTHhzYnRpLmFwaS5QYXJhbWV0ZXJMaXN0O/XTOh3ys3DuAgAAeHAAAAABc3IAF3hzYnRpLmFwaS5QYXJhbWV0ZXJMaXN01sW8HGRJdOMCAAJaAAppc0ltcGxpY2l0WwAKcGFyYW1ldGVyc3QAHFtMeHNidGkvYXBpL01ldGhvZFBhcmFtZXRlcjt4cAB1cgAcW0x4c2J0aS5hcGkuTWV0aG9kUGFyYW1ldGVyO8+4xV2l3bVtAgAAeHAAAAABc3IAGXhzYnRpLmFwaS5NZXRob2RQYXJhbWV0ZXIfRa4X00mw6gIABFoACmhhc0RlZmF1bHRMAAhtb2RpZmllcnQAHUx4c2J0aS9hcGkvUGFyYW1ldGVyTW9kaWZpZXI7TAAEbmFtZXEAfgAMTAADdHBlcQB+AHR4cAB+cgAbeHNidGkuYXBpLlBhcmFtZXRlck1vZGlmaWVyAAAAAAAAAAASAAB4cQB+AGJ0AAVQbGFpbnQABGFyZ3NzcgAXeHNidGkuYXBpLlBhcmFtZXRlcml6ZWQWbO5pA8m7fwIAAkwACGJhc2VUeXBlcQB+AHtbAA10eXBlQXJndW1lbnRzdAARW0x4c2J0aS9hcGkvVHlwZTt4cQB+AGtzcQB+AHp0AAVBcnJheXEAfgCAdXIAEVtMeHNidGkuYXBpLlR5cGU7dP+lWnv56UECAAB4cAAAAAFzcQB+AHp0AAZTdHJpbmdzcQB+AH5zcQB+AIF1cQB+AIQAAAADc3EAfgCGdAAEamF2YXNxAH4AhnQABGxhbmdxAH4Ai3NxAH4AZ3VxAH4ASgAAAABzcQB+AGd1cQB+AJ8AAAACc3EAfgB6dAAGT2JqZWN0cQB+AKNzcQB+AHp0AANBbnlxAH4AgHNxAH4ATHEAfgBZdXEAfgBaAAAAAHNxAH4AXAF0ABFzYW5kYm94LlNlbWlncm91cHVxAH4AXwAAAAFzcgAXeHNidGkuYXBpLlR5cGVQYXJhbWV0ZXJnaVXb43KQawIABls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
+/Users/jason.kim/Study/scala/cats/src/main/scala/sandbox/TypeClass.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlSjH5SdlLSkQCAAdJAAdhcGlIYXNoWgAIaGFzTWFjcm9aABBoYXNQYWNrYWdlT2JqZWN0TAAYX2ludGVybmFsT25seV9uYW1lSGFzaGVzdAAkTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoZXM7TAADYXBpdAAVTHhzYnRpL2FwaS9Tb3VyY2VBUEk7TAALY29tcGlsYXRpb250ABdMeHNidGkvYXBpL0NvbXBpbGF0aW9uO1sABGhhc2h0AAJbQnhwNXCqKQAAc3IAInhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoZXNU2r6Z+tTsTAIAAlsAD2ltcGxpY2l0TWVtYmVyc3QAI1tMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2g7WwAOcmVndWxhck1lbWJlcnNxAH4AB3hwdXIAI1tMeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2g7SVqAtt2Wi/QCAAB4cAAAAARzcgAgeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2hbDvUidjhXzwIAAkkABGhhc2hMAARuYW1ldAASTGphdmEvbGFuZy9TdHJpbmc7eHD2rIOPdAANSnNvbldyaXRlck9wc3NxAH4AC6M1nMN0AAxvcHRpb25Xcml0ZXJzcQB+AAshN1hodAAMcGVyc29uV3JpdGVyc3EAfgALPyiFYXQADHN0cmluZ1dyaXRlcnVxAH4ACQAAADVzcQB+AAs29z1adAAGbm90aWZ5c3EAfgALJEOFP3QAB3VuYXBwbHlzcQB+AAvlmW6ldAAHY3VycmllZHNxAH4ACwyTPb10AARuYW1lc3EAfgALw1dFKXQABHdhaXRzcQB+AAvnHB/wdAAOY29weSRkZWZhdWx0JDJzcQB+AAtQhCgmdAANJGFzSW5zdGFuY2VPZnNxAH4ACw8yHON0AAVlbWFpbHNxAH4ACz4BvK10AAxwcm9kdWN0QXJpdHlzcQB+AAst+Y+HdAAGZXF1YWxzc3EAfgALsIfLu3QADGFzSW5zdGFuY2VPZnNxAH4AC/ODz350AApKc29uU3ludGF4c3EAfgALTa/eO3QADHN5bmNocm9uaXplZHNxAH4AC95t7W50AA0kaXNJbnN0YW5jZU9mc3EAfgALv5hrtnQABnR1cGxlZHNxAH4ACzljJ4l0AAhjYW5FcXVhbHNxAH4AC9bGoRJ0AARtYWluc3EAfgAL7RpvHHQABWNvbG9yc3EAfgAL9AyQvXQADXByb2R1Y3RQcmVmaXhzcQB+AAuJfK+kdAATSnNvbldyaXRlckluc3RhbmNlc3NxAH4AC9o7S/50AANhZ2VzcQB+AAvq3UE9dAAJbm90aWZ5QWxsc3EAfgALLm8SBnQAA0NhdHNxAH4ACzqs7t90AAxpc0luc3RhbmNlT2ZzcQB+AAsy5XPWdAAISnNPYmplY3RzcQB+AAvadDzzdAAGPGluaXQ+c3EAfgALRSZCRXQABlBlcnNvbnNxAH4ACw/Fik10AAVhcHBseXNxAH4ACx7k9w90AAI9PXNxAH4AC6bNM5p0AAVjbG9uZXNxAH4AC1KwbOx0AAZKc051bGxzcQB+AAv21dpOdAAGdG9Kc29uc3EAfgAL8wCFtHQABiRpbml0JHNxAH4AC5FTXc50AAhKc1N0cmluZ3NxAH4AC69I7Eh0AA5jb3B5JGRlZmF1bHQkM3NxAH4ACzBf8xt0AARjb3B5c3EAfgAL2VrP0XQACHRvU3RyaW5nc3EAfgALV0vQeHQACEpzTnVtYmVyc3EAfgALToElZXQAAiE9c3EAfgALGNaFzHQAA2dldHNxAH4AC7G+hvJ0AAhnZXRDbGFzc3NxAH4AC4SC0Ct0AA5jb3B5JGRlZmF1bHQkMXNxAH4AC7tNBVV0AAJuZXNxAH4AC91VdNx0AApKc29uV3JpdGVyc3EAfgALXEayKXQABEpzb25zcQB+AAuij39bdAAJVHlwZUNsYXNzc3EAfgALPzXAj3QAAmVxc3EAfgAL0ZunY3QAD3Byb2R1Y3RJdGVyYXRvcnNxAH4ACziLlVR0AAV3cml0ZXNxAH4AC1wORIB0AAIjI3NxAH4AC7etv+R0AAhmaW5hbGl6ZXNxAH4AC9hP51B0AA5wcm9kdWN0RWxlbWVudHNxAH4AC9AL4hN0AAhoYXNoQ29kZXNyABN4c2J0aS5hcGkuU291cmNlQVBJuV6n+SkjOKQCAAJbAAtkZWZpbml0aW9uc3QAF1tMeHNidGkvYXBpL0RlZmluaXRpb247WwAIcGFja2FnZXN0ABRbTHhzYnRpL2FwaS9QYWNrYWdlO3hwdXIAF1tMeHNidGkuYXBpLkRlZmluaXRpb247iMlc57TjXg4CAAB4cAAAAAtzcgATeHNidGkuYXBpLkNsYXNzTGlrZYM0HKHfsJdsAgAETAAOZGVmaW5pdGlvblR5cGV0ABpMeHNidGkvYXBpL0RlZmluaXRpb25UeXBlO1sAEHNhdmVkQW5ub3RhdGlvbnN0ABNbTGphdmEvbGFuZy9TdHJpbmc7TAAIc2VsZlR5cGV0ABBMeHNidGkvYXBpL0xhenk7TAAJc3RydWN0dXJlcQB+AIl4cgAheHNidGkuYXBpLlBhcmFtZXRlcml6ZWREZWZpbml0aW9u+RFusdVQPOICAAFbAA50eXBlUGFyYW1ldGVyc3QAGltMeHNidGkvYXBpL1R5cGVQYXJhbWV0ZXI7eHIAFHhzYnRpLmFwaS5EZWZpbml0aW9uhyob6HFC40YCAARMAAZhY2Nlc3N0ABJMeHNidGkvYXBpL0FjY2VzcztbAAthbm5vdGF0aW9uc3QAF1tMeHNidGkvYXBpL0Fubm90YXRpb247TAAJbW9kaWZpZXJzdAAVTHhzYnRpL2FwaS9Nb2RpZmllcnM7TAAEbmFtZXEAfgAMeHBzcgAQeHNidGkuYXBpLlB1YmxpY7pYPa5sLWBCAgAAeHIAEHhzYnRpLmFwaS5BY2Nlc3PdYpr4HWMxSAIAAHhwdXIAF1tMeHNidGkuYXBpLkFubm90YXRpb24765frGRD2jUgCAAB4cAAAAABzcgATeHNidGkuYXBpLk1vZGlmaWVyc5fnYdwTJnuzAgABQgAFZmxhZ3N4cAl0AAxzYW5kYm94Lkpzb251cgAaW0x4c2J0aS5hcGkuVHlwZVBhcmFtZXRlcjvZbSYPKJ3ytgIAAHhwAAAAAH5yABh4c2J0aS5hcGkuRGVmaW5pdGlvblR5cGUAAAAAAAAAABIAAHhyAA5qYXZhLmxhbmcuRW51bQAAAAAAAAAAEgAAeHB0AAVUcmFpdHVyABNbTGphdmEubGFuZy5TdHJpbmc7rdJW5+kde0cCAAB4cAAAAABzcgAheHNidGkuYXBpLkFic3RyYWN0TGF6eSRTdHJpY3RMYXp5DWYcaykWKrgCAAFMAAV2YWx1ZXQAEkxqYXZhL2xhbmcvT2JqZWN0O3hwc3IAE3hzYnRpLmFwaS5FbXB0eVR5cGW8/Z5GSTuJJAIAAHhyABR4c2J0aS5hcGkuU2ltcGxlVHlwZXJ4YoghI79AAgAAeHIADnhzYnRpLmFwaS5UeXBlP2rZIRZJqsoCAAB4cHNxAH4AoXNyABN4c2J0aS5hcGkuU3RydWN0dXJlqar5gJNv2AACAANMAAhkZWNsYXJlZHEAfgCJTAAJaW5oZXJpdGVkcQB+AIlMAAdwYXJlbnRzcQB+AIl4cQB+AKZzcQB+AKF1cQB+AIQAAAAAc3EAfgChdXEAfgCEAAAAAHNxAH4AoXVyABFbTHhzYnRpLmFwaS5UeXBlO3T/pVp7+elBAgAAeHAAAAACc3IAFHhzYnRpLmFwaS5Qcm9qZWN0aW9u89KNVOlFpC0CAAJMAAJpZHEAfgAMTAAGcHJlZml4dAAWTHhzYnRpL2FwaS9TaW1wbGVUeXBlO3hxAH4ApXQABk9iamVjdHNyABN4c2J0aS5hcGkuU2luZ2xldG9u/Kdf+M9W5EYCAAFMAARwYXRodAAQTHhzYnRpL2FwaS9QYXRoO3hxAH4ApXNyAA54c2J0aS5hcGkuUGF0aJs9XAjOpSeEAgABWwAKY29tcG9uZW50c3QAGltMeHNidGkvYXBpL1BhdGhDb21wb25lbnQ7eHB1cgAaW0x4c2J0aS5hcGkuUGF0aENvbXBvbmVudDtD2gl0LWcWdAIAAHhwAAAAA3NyAAx4c2J0aS5hcGkuSWSYMmyLN1PEQAIAAUwAAmlkcQB+AAx4cgAXeHNidGkuYXBpLlBhdGhDb21wb25lbnRfmiJbLoafvAIAAHhwdAAEamF2YXNxAH4AvnQABGxhbmdzcgAOeHNidGkuYXBpLlRoaXPbCe2mzFpAXAIAAHhxAH4Av3NxAH4AsnQAA0FueXNxAH4AtnNxAH4AuXVxAH4AvAAAAAJzcQB+AL50AAVzY2FsYXEAfgDFc3EAfgCGcQB+AJN1cQB+AJQAAAAAc3EAfgCWBHQAEHNhbmRib3guSnNPYmplY3R1cQB+AJkAAAAAfnEAfgCbdAAIQ2xhc3NEZWZ1cQB+AJ8AAAAAc3EAfgChcQB+AKdzcQB+AKFzcQB+AKlzcQB+AKF1cQB+AIQAAAAAc3EAfgChdXEAfgCEAAAAAHNxAH4AoXVxAH4AsAAAAAdzcQB+ALJ0AAxTZXJpYWxpemFibGVzcQB+ALZzcQB+ALl1cQB+ALwAAAACc3EAfgC+cQB+AMxxAH4AxXNxAH4AsnEAfgDfc3EAfgC2c3EAfgC5dXEAfgC8AAAAA3NxAH4AvnEAfgDBc3EAfgC+dAACaW9xAH4AxXNxAH4AsnQAB1Byb2R1Y3RxAH4A4HNxAH4AsnQABkVxdWFsc3EAfgDgc3EAfgCydAAESnNvbnNxAH4AtnNxAH4AuXVxAH4AvAAAAAJzcQB+AL50AAdzYW5kYm94cQB+AMVzcQB+ALJxAH4AtXNxAH4AtnNxAH4AuXVxAH4AvAAAAANzcQB+AL5xAH4AwXNxAH4AvnEAfgDDcQB+AMVzcQB+ALJxAH4Ax3EAfgDgc3EAfgCGcQB+AJN1cQB+AJQAAAAAc3EAfgCWBHQAEHNhbmRib3guSnNTdHJpbmd1cQB+AJkAAAAAcQB+ANJ1cQB+AJ8AAAAAc3EAfgChcQB+AKdzcQB+AKFzcQB+AKlzcQB+AKF1cQB+AIQAAAAAc3EAfgChdXEAfgCEAAAAAHNxAH4AoXVxAH4AsAAAAAdzcQB+ALJxAH4A33NxAH4AtnNxAH4AuXVxAH4AvAAAAAJzcQB+AL5xAH4AzHEAfgDFc3EAfgCycQB+AN9zcQB+ALZzcQB+ALl1cQB+ALwAAAADc3EAfgC+cQB+AMFzcQB+AL50AAJpb3EAfgDFc3EAfgCycQB+AOxxAH4BDXNxAH4AsnQABkVxdWFsc3EAfgENc3EAfgCydAAESnNvbnNxAH4AtnNxAH4AuXVxAH4AvAAAAAJzcQB+AL50AAdzYW5kYm94cQB+AMVzcQB+ALJxAH4AtXNxAH4AtnNxAH4AuXVxAH4AvAAAAANzcQB+AL5xAH4AwXNxAH4AvnEAfgDDcQB+AMVzcQB+ALJxAH4Ax3EAfgENc3EAfgCGcQB+AJN1cQB+AJQAAAAAc3EAfgCWBHQAEHNhbmRib3guSnNOdW1iZXJ1cQB+AJkAAAAAcQB+ANJ1cQB+AJ8AAAAAc3EAfgChcQB+AKdzcQB+AKFzcQB+AKlzcQB+AKF1cQB+AIQAAAAAc3EAfgChdXEAfgCEAAAAAHNxAH4AoXVxAH4AsAAAAAdzcQB+ALJxAH4A33NxAH4AtnNxAH4AuXVxAH4AvAAAAAJzcQB+AL5xAH4AzHEAfgDFc3EAfgCycQB+AN9zcQB+ALZzcQB+ALl1cQB+ALwAAAADc3EAfgC+cQB+AMFzcQB+AL50AAJpb3EAfgDFc3EAfgCycQB+AOxxAH4BOXNxAH4AsnQABkVxdWFsc3EAfgE5c3EAfgCydAAESnNvbnNxAH4AtnNxAH4AuXVxAH4AvAAAAAJzcQB+AL50AAdzYW5kYm94cQB+AMVzcQB+ALJxAH4AtXNxAH4AtnNxAH4AuXVxAH4AvAAAAANzcQB+AL5xAH4AwXNxAH4AvnEAfgDDcQB+AMVzcQB+ALJxAH4Ax3EAfgE5c3EAfgCGcQB+AJN1cQB+AJQAAAAAc3EAfgCWAHQADnNhbmRib3guSnNOdWxsdXEAfgCZAAAAAH5xAH4Am3QABk1vZHVsZXVxAH4AnwAAAABzcQB+AKFxAH4Ap3NxAH4AoXNxAH4AqXNxAH4AoXVxAH4AhAAAAABzcQB+AKF1cQB+AIQAAAAAc3EAfgChdXEAfgCwAAAAB3NxAH4AsnEAfgDfc3EAfgC2c3EAfgC5dXEAfgC8AAAAAnNxAH4AvnEAfgDMcQB+AMVzcQB+ALJxAH4A33NxAH4AtnNxAH4AuXVxAH4AvAAAAANzcQB+AL5xAH4AwXNxAH4AvnQAAmlvcQB+AMVzcQB+ALJxAH4A7HEAfgFnc3EAfgCydAAGRXF1YWxzcQB+AWdzcQB+ALJ0AARKc29uc3EAfgC2c3EAfgC5dXEAfgC8AAAAAnNxAH4AvnQAB3NhbmRib3hxAH4AxXNxAH4AsnEAfgC1c3EAfgC2c3EAfgC5dXEAfgC8AAAAA3NxAH4AvnEAfgDBc3EAfgC+cQB+AMNxAH4AxXNxAH4AsnEAfgDHcQB+AWdzcQB+AIZxAH4Ak3VxAH4AlAAAAABzcQB+AJYBdAASc2FuZGJveC5Kc29uV3JpdGVydXEAfgCZAAAAAXNyABd4c2J0aS5hcGkuVHlwZVBhcmFtZXRlcmdpVdvjcpBrAgAGWwALYW5ub3RhdGlvbnNxAH4AjkwAAmlkcQB+AAxMAApsb3dlckJvdW5kdAAQTHhzYnRpL2FwaS9UeXBlO1sADnR5cGVQYXJhbWV0ZXJzcQB+AItMAAp1cHBlckJvdW5kcQB+AYlMAAh2YXJpYW5jZXQAFEx4c2J0aS9hcGkvVmFyaWFuY2U7eHB1cQB+AJQAAAAAdAAUc2FuZGJveC5Kc29uV3JpdGVyLkF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yABd4c2J0aS5hcGkuUGFyYW1ldGVyTGlzdNbFvBxkSXTjAgACWgAKaXNJbXBsaWNpdFsACnBhcmFtZXRlcnN0ABxbTHhzYnRpL2FwaS9NZXRob2RQYXJhbWV0ZXI7eHAAdXIAHFtMeHNidGkuYXBpLk1ldGhvZFBhcmFtZXRlcjvPuMVdpd21bQIAAHhwAAAAAXNyABl4c2J0aS5hcGkuTWV0aG9kUGFyYW1ldGVyH0WuF9NJsOoCAARaAApoYXNEZWZhdWx0TAAIbW9kaWZpZXJ0AB1MeHNidGkvYXBpL1BhcmFtZXRlck1vZGlmaWVyO0wABG5hbWVxAH4ADEwAA3RwZXEAfgGJeHAAfnIAG3hzYnRpLmFwaS5QYXJhbWV0ZXJNb2RpZmllcgAAAAAAAAAAEgAAeHEAfgCcdAAFUGxhaW50AARhcmdzc3IAF3hzYnRpLmFwaS5QYXJhbWV0ZXJpemVkFmzuaQPJu38CAAJMAAhiYXNlVHlwZXEAfgCzWwANdHlwZUFyZ3VtZW50c3QAEVtMeHNidGkvYXBpL1R5cGU7eHEAfgClc3EAfgCydAAFQXJyYXlxAH4CNHVxAH4AsAAAAAFzcQB+ALJ0AAZTdHJpbmdzcQB+ALZzcQB+ALl1cQB+ALwAAAADc3EAfgC+cQB+AMFzcQB+AL5xAH4Aw3EAfgDFc3EAfgChdXEAfgCEAAAAAHNxAH4AoXVxAH4AsAAAAAJzcQB+ALJxAH4AtXEAfgJOc3EAfgCycQB+AMdxAH4CNHVyABRbTHhzYnRpLmFwaS5QYWNrYWdlO1sTGTdwpyehAgAAeHAAAAABc3IAEXhzYnRpLmFwaS5QYWNrYWdlflmP9q7OOVgCAAFMAARuYW1lcQB+AAx4cHQAB3NhbmRib3hzcgAVeHNidGkuYXBpLkNvbXBpbGF0aW9u7frgw2rooEICAAJKAAlzdGFydFRpbWVbAAdvdXRwdXRzdAAaW0x4c2J0aS9hcGkvT3V0cHV0U2V0dGluZzt4cAAAAWQwwJROdXIAGltMeHNidGkuYXBpLk91dHB1dFNldHRpbmc7f2rC86eHpUICAAB4cAAAAAFzcgAXeHNidGkuYXBpLk91dHB1dFNldHRpbmd62ZpHdPsdewIAAkwAD291dHB1dERpcmVjdG9yeXEAfgAMTAAPc291cmNlRGlyZWN0b3J5cQB+AAx4cHQAOy9Vc2Vycy9qYXNvbi5raW0vU3R1ZHkvc2NhbGEvY2F0cy90YXJnZXQvc2NhbGEtMi4xMi9jbGFzc2VzdAABL3VyAAJbQqzzF/gGCFTgAgAAeHAAAAAUOxJoK9AzvUxmfAe3fRjYBb40ukk=
+external apis:
+0 items
+source infos:
+6 items
+/Users/jason.kim/Study/scala/cats/src/main/scala/sandbox/CovariantAndContravariant.scala -> 
+AAAAAAAAAAA=
+/Users/jason.kim/Study/scala/cats/src/main/scala/sandbox/Equality.scala -> 
+AAAAAAAAAAA=
+/Users/jason.kim/Study/scala/cats/src/main/scala/sandbox/FunctorTest.scala -> 
+AAAAAAAAAAA=
+/Users/jason.kim/Study/scala/cats/src/main/scala/sandbox/Main.scala -> 
+AAAAAAAAAAA=
+/Users/jason.kim/Study/scala/cats/src/main/scala/sandbox/MonoidTest.scala -> 
+AAAAAAAAAAA=
+/Users/jason.kim/Study/scala/cats/src/main/scala/sandbox/TypeClass.scala -> 
+AAAAAAAAAAA=
+compilations:
+1 items
+0 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABZDDAlE51cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAOy9Vc2Vycy9qYXNvbi5raW0vU3R1ZHkvc2NhbGEvY2F0cy90YXJnZXQvc2NhbGEtMi4xMi9jbGFzc2VzdAABLw==

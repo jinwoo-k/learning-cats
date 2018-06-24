@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="ivy-report.xsl"?>
+<ivy-report version="1.0">
+	<info
+		organisation="cats-sandbox"
+		module="cats-sandbox_2.12"
+		revision="0.0.1-SNAPSHOT"
+		conf="test-internal"
+		confs="compile, runtime, test, provided, optional, compile-internal, runtime-internal, test-internal, plugin, sources, docs, pom, scala-tool"
+		date="20180616152037"/>
+	<dependencies>
+		<module organisation="org.scala-lang" name="scala-reflect">
+			<revision name="2.12.3" status="release" pubdate="20170725194444" resolver="public" artresolver="public" homepage="http://www.scala-lang.org/" extra-info.apiURL="http://www.scala-lang.org/api/2.12.3/" downloaded="true" searched="true" default="false" conf="compile, runtime(*), master(compile), runtime, compile(*), master" position="4">
+				<license name="BSD 3-Clause" url="http://www.scala-lang.org/license.html"/>
+				<metadata-artifact status="successful" details="" size="1804" time="729" location="/Users/jason.kim/.ivy2/cache/org.scala-lang/scala-reflect/ivy-2.12.3.xml" searched="true" original-local-location="/Users/jason.kim/.ivy2/cache/org.scala-lang/scala-reflect/ivy-2.12.3.xml.original" origin-is-local="false" origin-location="https://repo1.maven.org/maven2/org/scala-lang/scala-reflect/2.12.3/scala-reflect-2.12.3.pom"/>
+				<caller organisation="org.typelevel" name="machinist_2.12" conf="compile, runtime" rev="2.12.3" rev-constraint-default="2.12.3" rev-constraint-dynamic="2.12.3" callerrev="0.6.1"/>
+				<artifacts>
+					<artifact name="scala-reflect" type="jar" ext="jar" status="successful" details="" size="3567871" time="1383" location="/Users/jason.kim/.ivy2/cache/org.scala-lang/scala-reflect/jars/scala-reflect-2.12.3.jar">
+						<origin-location is-local="false" location="https://repo1.maven.org/maven2/org/scala-lang/scala-reflect/2.12.3/scala-reflect-2.12.3.jar"/>
+					</artifact>
+				</artifacts>
+			</revision>
+		</module>
+		<module organisation="org.typelevel" name="cats-core_2.12">
+			<revision name="1.0.0-MF" status="release" pubdate="20170728030928" resolver="public" artresolver="public" homepage="https://github.com/typelevel/cats" extra-info.apiURL="http://typelevel.org/cats/api/" downloaded="true" searched="true" default="false" conf="default, compile, runtime, default(compile), master" position="1">
+				<license name="MIT" url="http://opensource.org/licenses/MIT"/>
+				<metadata-artifact status="successful" details="" size="4747" time="691" location="/Users/jason.kim/.ivy2/cache/org.typelevel/cats-core_2.12/ivy-1.0.0-MF.xml" searched="true" original-local-location="/Users/jason.kim/.ivy2/cache/org.typelevel/cats-core_2.12/ivy-1.0.0-MF.xml.original" origin-is-local="false" origin-location="https://repo1.maven.org/maven2/org/typelevel/cats-core_2.12/1.0.0-MF/cats-core_2.12-1.0.0-MF.pom"/>
+				<caller organisation="cats-sandbox" name="cats-sandbox_2.12" conf="test, compile, provided, test-internal, runtime, optional" rev="1.0.0-MF" rev-constraint-default="1.0.0-MF" rev-constraint-dynamic="1.0.0-MF" callerrev="0.0.1-SNAPSHOT"/>
+				<artifacts>
+					<artifact name="cats-core_2.12" type="jar" ext="jar" status="successful" details="" size="2880778" time="1420" location="/Users/jason.kim/.ivy2/cache/org.typelevel/cats-core_2.12/jars/cats-core_2.12-1.0.0-MF.jar">
+						<origin-location is-local="false" location="https://repo1.maven.org/maven2/org/typelevel/cats-core_2.12/1.0.0-MF/cats-core_2.12-1.0.0-MF.jar"/>
+					</artifact>
+				</artifacts>
+			</revision>
+		</module>
+		<module organisation="org.typelevel" name="cats-kernel_2.12">
+			<revision name="1.0.0-MF" status="release" pubdate="20170728030729" resolver="public" artresolver="public" homepage="https://github.com/typelevel/cats" extra-info.apiURL="http://typelevel.org/cats/api/" downloaded="true" searched="true" default="false" conf="compile, runtime(*), master(compile), runtime, compile(*), master" position="5">
+				<license name="MIT" url="http://opensource.org/licenses/MIT"/>
+				<metadata-artifact status="successful" details="" size="4000" time="728" location="/Users/jason.kim/.ivy2/cache/org.typelevel/cats-kernel_2.12/ivy-1.0.0-MF.xml" searched="true" original-local-location="/Users/jason.kim/.ivy2/cache/org.typelevel/cats-kernel_2.12/ivy-1.0.0-MF.xml.original" origin-is-local="false" origin-location="https://repo1.maven.org/maven2/org/typelevel/cats-kernel_2.12/1.0.0-MF/cats-kernel_2.12-1.0.0-MF.pom"/>
+				<caller organisation="org.typelevel" name="cats-core_2.12" conf="default, compile, runtime, master" rev="1.0.0-MF" rev-constraint-default="1.0.0-MF" rev-constraint-dynamic="1.0.0-MF" callerrev="1.0.0-MF"/>
+				<artifacts>
+					<artifact name="cats-kernel_2.12" type="jar" ext="jar" status="successful" details="" size="4242561" time="1559" location="/Users/jason.kim/.ivy2/cache/org.typelevel/cats-kernel_2.12/jars/cats-kernel_2.12-1.0.0-MF.jar">
+						<origin-location is-local="false" location="https://repo1.maven.org/maven2/org/typelevel/cats-kernel_2.12/1.0.0-MF/cats-kernel_2.12-1.0.0-MF.jar"/>
+					</artifact>
+				</artifacts>
+			</revision>
+		</module>
+		<module organisation="org.typelevel" name="cats-macros_2.12">
+			<revision name="1.0.0-MF" status="release" pubdate="20170728030617" resolver="public" artresolver="public" homepage="https://github.com/typelevel/cats" extra-info.apiURL="http://typelevel.org/cats/api/" downloaded="true" searched="true" default="false" conf="compile, runtime(*), master(compile), runtime, compile(*), master" position="2">
+				<license name="MIT" url="http://opensource.org/licenses/MIT"/>
+				<metadata-artifact status="successful" details="" size="4177" time="739" location="/Users/jason.kim/.ivy2/cache/org.typelevel/cats-macros_2.12/ivy-1.0.0-MF.xml" searched="true" original-local-location="/Users/jason.kim/.ivy2/cache/org.typelevel/cats-macros_2.12/ivy-1.0.0-MF.xml.original" origin-is-local="false" origin-location="https://repo1.maven.org/maven2/org/typelevel/cats-macros_2.12/1.0.0-MF/cats-macros_2.12-1.0.0-MF.pom"/>
+				<caller organisation="org.typelevel" name="cats-core_2.12" conf="default, compile, runtime, master" rev="1.0.0-MF" rev-constraint-default="1.0.0-MF" rev-constraint-dynamic="1.0.0-MF" callerrev="1.0.0-MF"/>
+				<artifacts>
+					<artifact name="cats-macros_2.12" type="jar" ext="jar" status="successful" details="" size="6154" time="718" location="/Users/jason.kim/.ivy2/cache/org.typelevel/cats-macros_2.12/jars/cats-macros_2.12-1.0.0-MF.jar">
+						<origin-location is-local="false" location="https://repo1.maven.org/maven2/org/typelevel/cats-macros_2.12/1.0.0-MF/cats-macros_2.12-1.0.0-MF.jar"/>
+					</artifact>
+				</artifacts>
+			</revision>
+		</module>
+		<module organisation="org.typelevel" name="machinist_2.12">
+			<revision name="0.6.1" status="release" pubdate="20161030001418" resolver="public" artresolver="public" homepage="http://github.com/typelevel/machinist" downloaded="true" searched="true" default="false" conf="compile, runtime(*), master(compile), runtime, compile(*), master" position="3">
+				<license name="MIT" url="http://opensource.org/licenses/MIT"/>
+				<metadata-artifact status="successful" details="" size="1780" time="740" location="/Users/jason.kim/.ivy2/cache/org.typelevel/machinist_2.12/ivy-0.6.1.xml" searched="true" original-local-location="/Users/jason.kim/.ivy2/cache/org.typelevel/machinist_2.12/ivy-0.6.1.xml.original" origin-is-local="false" origin-location="https://repo1.maven.org/maven2/org/typelevel/machinist_2.12/0.6.1/machinist_2.12-0.6.1.pom"/>
+				<caller organisation="org.typelevel" name="cats-macros_2.12" conf="compile, runtime" rev="0.6.1" rev-constraint-default="0.6.1" rev-constraint-dynamic="0.6.1" callerrev="1.0.0-MF"/>
+				<caller organisation="org.typelevel" name="cats-core_2.12" conf="default, compile, runtime, master" rev="0.6.1" rev-constraint-default="0.6.1" rev-constraint-dynamic="0.6.1" callerrev="1.0.0-MF"/>
+				<artifacts>
+					<artifact name="machinist_2.12" type="jar" ext="jar" status="successful" details="" size="33650" time="741" location="/Users/jason.kim/.ivy2/cache/org.typelevel/machinist_2.12/jars/machinist_2.12-0.6.1.jar">
+						<origin-location is-local="false" location="https://repo1.maven.org/maven2/org/typelevel/machinist_2.12/0.6.1/machinist_2.12-0.6.1.jar"/>
+					</artifact>
+				</artifacts>
+			</revision>
+		</module>
+		<module organisation="org.scala-lang" name="scala-library">
+			<revision name="2.12.3" status="release" pubdate="20170725194730" resolver="public" artresolver="public" homepage="http://www.scala-lang.org/" extra-info.apiURL="http://www.scala-lang.org/api/2.12.3/" downloaded="true" searched="true" default="false" conf="default, compile, runtime(*), master(compile), runtime, default(compile), compile(*), master" position="0">
+				<license name="BSD 3-Clause" url="http://www.scala-lang.org/license.html"/>
+				<metadata-artifact status="successful" details="" size="1594" time="707" location="/Users/jason.kim/.ivy2/cache/org.scala-lang/scala-library/ivy-2.12.3.xml" searched="true" original-local-location="/Users/jason.kim/.ivy2/cache/org.scala-lang/scala-library/ivy-2.12.3.xml.original" origin-is-local="false" origin-location="https://repo1.maven.org/maven2/org/scala-lang/scala-library/2.12.3/scala-library-2.12.3.pom"/>
+				<caller organisation="org.typelevel" name="cats-macros_2.12" conf="compile, runtime" rev="2.12.3" rev-constraint-default="2.12.3" rev-constraint-dynamic="2.12.3" callerrev="1.0.0-MF"/>
+				<caller organisation="org.typelevel" name="machinist_2.12" conf="compile, runtime" rev="2.12.3" rev-constraint-default="2.12.3" rev-constraint-dynamic="2.12.3" callerrev="0.6.1"/>
+				<caller organisation="org.typelevel" name="cats-kernel_2.12" conf="compile, runtime" rev="2.12.3" rev-constraint-default="2.12.3" rev-constraint-dynamic="2.12.3" callerrev="1.0.0-MF"/>
+				<caller organisation="org.typelevel" name="cats-core_2.12" conf="default, compile, runtime, master" rev="2.12.3" rev-constraint-default="2.12.3" rev-constraint-dynamic="2.12.3" callerrev="1.0.0-MF"/>
+				<caller organisation="cats-sandbox" name="cats-sandbox_2.12" conf="test, compile, provided, test-internal, runtime, optional" rev="2.12.3" rev-constraint-default="2.12.3" rev-constraint-dynamic="2.12.3" callerrev="0.0.1-SNAPSHOT"/>
+				<caller organisation="org.scala-lang" name="scala-reflect" conf="compile, runtime" rev="2.12.3" rev-constraint-default="2.12.3" rev-constraint-dynamic="2.12.3" callerrev="2.12.3"/>
+				<artifacts>
+					<artifact name="scala-library" type="jar" ext="jar" status="successful" details="" size="5246851" time="3112" location="/Users/jason.kim/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.12.3.jar">
+						<origin-location is-local="false" location="https://repo1.maven.org/maven2/org/scala-lang/scala-library/2.12.3/scala-library-2.12.3.jar"/>
+					</artifact>
+				</artifacts>
+			</revision>
+		</module>
+	</dependencies>
+</ivy-report>
